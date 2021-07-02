@@ -1,0 +1,498 @@
+State_Name,Assembly_No,Sequence_No,pid_CM,No_Terms_as_CM,Name,Start_Date,End_Date,Days_in_Office,Appointment_Delay,Administrative_Rule,MLC,Caretaker_CM,Constituency_No,Poll_No,Position,Constituency_Name,pid_IED,Party,No_Terms_as_MLA,Turncoat,Incumbent,Recontest
+Andhra_Pradesh,3,1,1.0,1.0,Sri (Dr)Neelam Sanjeeva Reddy,12-03-1962,28-02-1964,718,NA,False,False,False,185.0,0.0,1.0,DHONE,AEAP26190,INC,1.0,False,False,False
+Andhra_Pradesh,3,2,2.0,1.0,Sri Kasu Bramhananda Reddy,29-02-1964,28-02-1967,1095,1,False,False,False,110.0,0.0,1.0,PHIRANGIPURAM,AEAP25948,INC,1.0,False,False,False
+Andhra_Pradesh,4,1,2.0,2.0,Sri Kasu Bramhananda Reddy,01-03-1967,30-09-1971,1674,1,False,False,False,105.0,0.0,1.0,NARASARAOPET,AEAP24868,INC,1.0,False,False,False
+Andhra_Pradesh,4,2,4.0,1.0,Sri P.V.Narasimha Rao,30-09-1971,14-03-1972,166,0,False,False,False,243.0,0.0,1.0,MANTHANI,AEAP25359,INC,1.0,False,False,False
+Andhra_Pradesh,5,1,4.0,2.0,Sri P.V.Narasimha Rao,14-03-1972,18-01-1973,310,0,False,False,False,243.0,0.0,1.0,MANTHANI,AEAP24287,INC,1.0,False,False,False
+Andhra_Pradesh,-1,1,,,President's Rule,18-01-1973,10-12-1973,326,0,True,False,False,,,,,,,,,,
+Andhra_Pradesh,5,2,7.0,1.0,Sri. Jalagam Vengala Rao,10-12-1973,05-03-1978,1546,0,False,False,False,271.0,0.0,1.0,VEMSOOR,GEAP30734,INC,2.0,False,False,False
+Andhra_Pradesh,6,1,8.0,1.0,Dr Marri Chenna Reddy,6-3-1978,10-10-1980,949,1,False,False,False,219.0,0.0,1.0,MEDCHAL,AEAP23024,INC(I),1.0,False,False,False
+Andhra_Pradesh,6,2,9.0,1.0,Sri Tanguturi Anjaiah,11-10-1980,24-02-1982,501,1,False,True,False,,,,,,,,,,
+Andhra_Pradesh,6,3,10.0,1.0,Sri Bhavanam Venkataram,24-02-1982,20-09-1982,208,0,False,True,False,,,,,,,,,,
+Andhra_Pradesh,6,4,11.0,1.0,Sri K.Vijaya Bhaskara Reddy,20-09-1982,08-01-1983,110,0,False,False,True,,,,,,,,,,
+Andhra_Pradesh,7,1,19.0,1.0,Sri N.T.Rama Rao,09-01-1983,16-08-1984,585,1,False,False,False,149.0,0.0,1.0,TIRUPATHI,AEAP14941,IND,1.0,False,False,False
+Andhra_Pradesh,7,2,13.0,1.0,Sri N.Bhaskara rao,16-08-1984,16-09-1984,31,0,False,False,False,94.0,0.0,1.0,VEMUR,AEAP13877,IND,1.0,False,False,False
+Andhra_Pradesh,7,3,19.0,2.0,Sri N.T.Rama Rao,16-09-1984,07-03-1985,172,0,False,False,False,149.0,0.0,1.0,TIRUPATHI,AEAP14941,IND,1.0,False,False,False
+Andhra_Pradesh,8,1,19.0,3.0,Sri N.T.Rama Rao,08-03-1985,02-12-1989,1730,1,False,False,False,289.0,0.0,1.0,NALGONDA,AEAP20050,TDP,1.0,False,False,False
+Andhra_Pradesh,9,1,8.0,2.0,Dr.Marri Chenna Reddy,03-12-1989,07-12-1990,369,1,False,False,False,208.0,0.0,1.0,SANATHNAGAR,AEAP17516,INC,1.0,False,False,False
+Andhra_Pradesh,9,2,17.0,1.0,Sri N.Janardhana Reddy,17-12-1990,09-10-1992,662,10,False,False,False,134.0,0.0,1.0,VENKATAGIRI,GEAP64950,INC,1.0,False,False,False
+Andhra_Pradesh,9,3,18.0,1.0,Sri K.VijayaBhaskara Reddy,10-10-1992,11-12-1994,792,1,False,False,False,184.0,1.0,1.0,Panyam,AEAP17377,INC,1.0,False,False,False
+Andhra_Pradesh,10,1,19.0,4.0,Sri N.T.Rama Rao,12-12-1994,31-08-1995,262,1,False,False,False,3.0,0.0,1.0,TEKKALI,AEAP12952,TDP,1.0,False,False,False
+Andhra_Pradesh,10,2,20.0,1.0,Sri N. Chandra Babu Naidu,01-09-1995,09-10-1999,1499,1,False,False,False,142.0,0.0,1.0,KUPPAM,AEAP14475,TDP,2.0,True,False,False
+Andhra_Pradesh,11,1,20.0,2.0,Sri N. Chandra Babu Naidu,10-10-1999,13-05-2004,1677,1,False,False,False,142.0,0.0,1.0,KUPPAM,AEAP11737,TDP,1.0,False,False,False
+Andhra_Pradesh,12,1,22.0,1.0,Dr.Y.S. Rajasekhara Reddy,14-05-2004,19-05-2009,1831,1,False,False,False,160.0,0.0,1.0,PULIVENDLA,AEAP9640,INC,1.0,False,False,False
+Andhra_Pradesh,13,1,22.0,2.0,Dr.Y.S. Rajasekhara Reddy,19-05-2009,02-09-2009,106,0,False,False,False,248.0,0.0,1.0,PULIVENDLA,AEAP7966,INC,1.0,False,False,False
+Andhra_Pradesh,13,2,24.0,1.0,Sri. K. Rosaiah,03-09-2009,24-11-2010,447,1,False,True,False,,,,,,,,,,
+Andhra_Pradesh,13,3,25.0,1.0,Sri. N.Kiran Kumar Reddy,25-11-2010,28-02-2014,1191,1,False,False,False,282.0,0.0,1.0,PILERU,AEAP8495,INC,2.0,False,False,False
+Andhra_Pradesh,-1,2,,,President's Rule,01-03-2014,02-06-2014,93,1,True,False,False,,,,,,,,,,
+Andhra_Pradesh,14,1,27.0,1.0,Chandrababu Naidu,02-06-2014,29-05-2019,1822,0,False,False,False,175.0,0.0,1.0,KUPPAM,AEAP4236,TDP,1.0,False,False,False
+Andhra_Pradesh,15,1,28.0,1.0,Y. S. Jaganmohan Reddy,30-05-2019,Current,762,1,False,False,False,129.0,0.0,1.0,PULIVENDLA,AEAP83077,YSRCP,1.0,False,False,False
+Arunachal_Pradesh,0,1,29.0,1.0,P.K. Thungon,16-08-1975,20-03-1978,947,NA,False,False,True,,,,,,,,,,
+Arunachal_Pradesh,1,1,29.0,2.0,P.K. Thungon,21-03-1978,06-09-1979,534,1,False,False,False,3.0,0.0,1.0,DIRANG KALAKTANG,AEAR82169,JNP,1.0,False,False,False
+Arunachal_Pradesh,1,2,31.0,1.0,Late Tomo Riba,18-09-1979,03-11-1979,46,12,False,False,False,17.0,0.0,1.0,BASAR,AEAR81689,PPA,1.0,False,False,False
+Arunachal_Pradesh,-1,1,,,President's Rule,03-11-1979,18-01-1980,76,0,True,False,False,,,,,,,,,,
+Arunachal_Pradesh,2,1,33.0,1.0,Gegong Apang,18-01-1980,02-02-1985,1842,0,False,False,False,19.0,0.0,1.0,YINGKIONG PANGIN,AEAR82217,INC(I),2.0,True,True,True
+Arunachal_Pradesh,3,1,33.0,2.0,Gegong Apang,02-02-1985,05-03-1990,1857,0,False,False,False,19.0,0.0,1.0,YINGKIONG-PANGIN,AEAR82217,INC,3.0,True,True,True
+Arunachal_Pradesh,4,1,33.0,3.0,Gegong Apang,06-03-1990,18-03-1995,1838,1,False,False,False,34.0,0.0,1.0,TUTING-YINGKIONG,AEAR82217,INC,4.0,False,True,True
+Arunachal_Pradesh,5,1,33.0,4.0,Gegong Apang,19-03-1995,18-01-1999,1401,1,False,False,False,34.0,0.0,1.0,TUTING-YINKGKIONG,AEAR82217,INC,5.0,False,True,True
+Arunachal_Pradesh,5,2,37.0,1.0,Mukut Mithi,19-01-1999,09-10-1999,263,1,False,False,False,43.0,0.0,1.0,ROING,AEAR82223,INC,3.0,False,True,True
+Arunachal_Pradesh,6,1,37.0,2.0,Mukut Mithi,10-10-1999,02-08-2003,1392,1,False,False,False,43.0,0.0,1.0,ROING,AEAR82223,INC,4.0,False,True,True
+Arunachal_Pradesh,6,2,33.0,5.0,Gegong Apang,03-08-2003,23-10-2004,447,1,False,False,False,34.0,0.0,1.0,TUTING-YINKGKIONG,AEAR82217,AC,6.0,False,True,True
+Arunachal_Pradesh,7,1,33.0,6.0,Gegong Apang,24-10-2004,09-04-2007,897,1,False,False,False,34.0,0.0,1.0,TUTING-YINGKIONG,AEAR82217,INC,7.0,True,True,True
+Arunachal_Pradesh,7,2,41.0,1.0,Dorjee Khandu,10-04-2007,22-10-2009,926,1,False,False,False,,,,,,,,,,
+Arunachal_Pradesh,8,1,41.0,2.0,Dorjee Khandu,23-10-2009,04-05-2011,558,1,False,False,False,3.0,0.0,1.0,MUKTO,AEAR81614,INC,4.0,False,False,False
+Arunachal_Pradesh,8,2,5004.0,1.0,Jarbom Gamlin,05-05-2011,31-10-2011,179,1,False,False,False,27.0,0.0,1.0,LIROMOBA,AEAR81856,INC,2.0,False,True,True
+Arunachal_Pradesh,8,3,5001.0,1.0,Nabam Tuki,01-11-2011,17-05-2014,928,1,False,False,False,15.0,0.0,1.0,SAGALEE,AEAR80972,INC,3.0,False,False,False
+Arunachal_Pradesh,9,1,5001.0,2.0,Nabam Tuki,18-05-2014,26-01-2016,618,1,False,False,False,15.0,0.0,1.0,SAGALEE,AEAR80972,INC,4.0,False,True,True
+Arunachal_Pradesh,-1,2,,,President's Rule,26-01-2016,19-02-2016,24,0,True,False,False,,,,,,,,,,
+Arunachal_Pradesh,9,2,5003.0,1.0,Kalikho Pul,19-02-2016,13-07-2016,145,0,False,False,False,45.0,0.0,1.0,HAYULIANG,AEAR81047,INC,5.0,False,True,True
+Arunachal_Pradesh,9,3,5001.0,3.0,Nabam Tuki,13-07-2016,17-07-2016,4,0,False,False,False,15.0,0.0,1.0,SAGALEE,AEAR80972,INC,4.0,False,True,True
+Arunachal_Pradesh,9,4,5002.0,1.0,Pema Khandu,17-07-2016,26-05-2019,1043,0,False,False,False,3.0,0.0,1.0,MUKTO,AEAR80947,INC,2.0,False,True,True
+Arunachal_Pradesh,10,1,5002.0,2.0,Pema Khandu,29-05-2019,Current,763,3,False,False,False,3.0,0.0,1.0,MUKTO,AEAR80947,BJP,3.0,True,True,True
+Assam,3,1,43.0,1.0,B.P. Chaliha,03-03-1962,01-03-1967,1824,NA,False,False,False,90.0,0.0,1.0,SONARI,AEAS197674,INC,1.0,False,False,False
+Assam,4,1,43.0,2.0,B.P. Chaliha,01-03-1967,06-11-1970,1346,0,False,False,False,110.0,0.0,1.0,SONARI,AEAS197241,INC,1.0,False,False,False
+Assam,4,2,45.0,1.0,Mohendra Mohan Choudhury,11-11-1970,30-01-1972,445,5,False,False,False,58.0,0.0,1.0,GAUHATI EAST,AEAS196859,INC,1.0,False,False,False
+Assam,5,1,46.0,1.0,Shri Sarat Chandra Sinha,31-01-1972,12-03-1978,2232,1,False,False,False,39.0,0.0,1.0,KOKRAJHAR EAST,AEAS196428,INC,1.0,False,False,False
+Assam,6,1,47.0,1.0,Shri Golap Borbora,12-03-1978,04-09-1979,541,0,False,False,False,122.0,0.0,1.0,TINSUKIA,AEAS196808,JNP,1.0,True,False,True
+Assam,6,2,48.0,1.0,Shri Jogendra Nath Hazarika,9-9-1979,11-12-1979,93,5,False,False,False,118.0,0.0,1.0,DULIAJAN,AEAS194829,JNP,1.0,False,False,False
+Assam,-1,1,,,President's Rule,12-12-1979,05-12-1980,359,1,True,False,False,,,,,,,,,,
+Assam,6,3,50.0,1.0,Shrimati Anowara Taimur,06-12-1980,30-06-1981,206,1,False,False,False,68.0,0.0,1.0,DALGAON,AEAS195878,INC(I),1.0,False,False,False
+Assam,-1,2,,,President's Rule,30-06-1981,13-01-1982,197,0,True,False,False,,,,,,,,,,
+Assam,6,4,52.0,1.0,Shri Kesab Chandra Gogoi,13-01-1982,19-03-1982,65,0,False,False,False,116.0,0.0,1.0,DIBRUGARH,AEAS195369,JNP,1.0,False,False,False
+Assam,-1,3,,,President's Rule,19-03-1982,27-02-1983,345,0,True,False,False,,,,,,,,,,
+Assam,7,1,54.0,1.0,Shri Hiteswar Saikia,27-02-1983,23-12-1985,1030,0,False,False,False,104.0,0.0,1.0,NAZIRA,AEAS195303,INC,3.0,False,True,True
+Assam,8,1,59.0,1.0,Shri Prafulla Kumar Mahanta,24-12-1985,27-11-1990,1799,1,False,False,False,86.0,0.0,1.0,NOWGONG,AEAS193203,IND,1.0,False,False,False
+Assam,-1,4,,,President's Rule,28-11-1990,30-06-1991,214,1,True,False,False,,,,,,,,,,
+Assam,9,1,54.0,2.0,Shri Hiteswar Saikia,30-06-1991,22-04-1996,1758,0,False,False,False,104.0,0.0,1.0,NAZIRA,AEAS195303,INC,5.0,False,False,True
+Assam,10,1,58.0,1.0,Dr. Bhumidhar Barman,22-04-1996,14-05-1996,22,0,False,False,False,60.0,0.0,2.0,BARKHETRY,AEAS192871,INC,1.0,False,True,True
+Assam,10,2,59.0,2.0,Shri Prafulla Kumar Mahanta,15-05-1996,17-05-2001,1828,1,False,False,False,87.0,0.0,1.0,BARHAMPUR,AEAS187558,AGP,2.0,False,True,True
+Assam,11,1,60.0,1.0,Shri Tarun Gogoi,17-05-2001,11-05-2006,1820,0,False,False,False,100.0,1.0,1.0,TITABAR(SC),AEAS188688,INC,1.0,False,False,False
+Assam,12,1,60.0,2.0,Shri Tarun Gogoi,12-05-2006,16-05-2011,1830,1,False,False,False,100.0,0.0,1.0,TITABAR,AEAS188688,INC,2.0,False,True,True
+Assam,13,1,60.0,3.0,Shri Tarun Gogoi,17-05-2011,21-05-2016,1831,1,False,False,False,100.0,0.0,1.0,TITABAR,AEAS188688,INC,3.0,False,True,True
+Assam,14,1,5011.0,1.0,Shri Sarbananda Sonowal,24-05-2016,09-05-2021,1811,3,False,False,False,99.0,0.0,1.0,MAJULI,GEAS74852,BJP,1.0,False,False,False
+Assam,15,1,5012.0,1.0,Shri Himanta Biswa Sarma,10-05-2021,Current,51,1,False,False,False,51.0,0.0,1.0,JALUKBARI,AEAS189354,BJP,5.0,False,True,True
+Goa,1,1,64.0,1.0,Shri Pratapsingh R. Rane,09-01-1990,27-03-1990,77,NA,False,False,False,18.0,0.0,1.0,PORIEM,,INC,,,,
+Goa,1,2,65.0,1.0,Shri Churchill Alemao,27-03-1990,14-04-1990,18,0,False,False,False,28.0,0.0,1.0,BENAULIM,,INC,,,,
+Goa,1,3,66.0,1.0,Dr. Luis Proto Barbosa,14-04-1990,14-12-1990,244,0,False,False,False,27.0,0.0,1.0,LOUTOLIM,,INC,,,,
+Goa,-1,1,,,President's Rule,14-12-1990,25-01-1991,42,0,True,False,False,,,,,,,,,,
+Goa,1,4,70.0,1.0,Shri Ravi S. Naik,25-01-1991,18-05-1993,844,0,False,False,False,22.0,0.0,1.0,MARCAIM,,MAG,,,,
+Goa,1,5,69.0,1.0,Dr. Wilfred de Souza,18-05-1993,02-04-1994,319,0,False,False,False,8.0,0.0,1.0,SALIGAO,,INC,,,,
+Goa,1,6,70.0,2.0,Shri Ravi S. Naik,02-04-1994,08-04-1994,6,0,False,False,False,22.0,0.0,2.0,MARCAIM,,INC,,,,
+Goa,1,7,69.0,2.0,Dr. Wilfred de Souza,08-04-1994,16-12-1994,252,0,False,False,False,8.0,0.0,1.0,SALIGAO,,INC,,,,
+Goa,2,1,64.0,2.0,Shri Pratapsingh R. Rane,16-12-1994,29-07-1998,1321,0,False,False,False,18.0,0.0,1.0,PORIEM,,INC,,,,
+Goa,2,2,69.0,3.0,Dr. Wilfred de Souza,29-07-1998,23-11-1998,117,0,False,False,False,8.0,0.0,1.0,SALIGAO,,INC,,,,
+Goa,2,3,74.0,1.0,Shri Luizinho Faleiro,26-11-1998,08-02-1999,74,3,False,False,False,32.0,0.0,1.0,NAVELIM,,INC,,,,
+Goa,-1,1,,,President's Rule,10-02-1999,09-06-1999,119,2,True,False,False,,,,,,,,,,
+Goa,3,1,74.0,2.0,Shri Luizinho Faleiro,09-06-1999,24-11-1999,168,0,False,False,False,32.0,0.0,1.0,NAVELIM,,INC,,,,
+Goa,3,2,77.0,1.0,Shri Francisco Sardinha,24-11-1999,23-10-2000,334,0,False,False,False,31.0,0.0,1.0,CURTORIM,,INC,,,,
+Goa,3,3,78.0,1.0,Shri Manohar Parrikar,24-10-2000,31-05-2002,584,1,False,False,False,10.0,0.0,1.0,PANAJI,,BJP,,,,
+Goa,4,1,78.0,2.0,Shri Manohar Parrikar,01-06-2002,02-02-2005,977,1,False,False,False,10.0,0.0,1.0,PANAJI,,BJP,,,,
+Goa,4,2,64.0,3.0,Shri Pratapsingh R. Rane,03-02-2005,04-03-2005,29,1,False,False,False,18.0,0.0,1.0,PORIEM,,INC,,,,
+Goa,-1,2,,,President's Rule,04-03-2005,06-06-2005,94,0,True,False,False,,,,,,,,,,
+Goa,4,3,64.0,4.0,Shri Pratapsingh R. Rane,07-06-2005,07-06-2007,730,1,False,False,False,18.0,0.0,1.0,PORIEM,,INC,,,,
+Goa,5,1,83.0,1.0,Shri Digambar Kamat,08-06-2007,08-03-2012,1735,1,False,False,False,30.0,0.0,1.0,MARGAO,,INC,,,,
+Goa,6,1,78.0,3.0,Shri Manohar Parrikar,09-03-2012,08-11-2014,974,1,False,False,False,11.0,0.0,1.0,PANAJI,,BJP,,,,
+Goa,6,2,85.0,1.0,Shri Laxmikant Parsekar,08-11-2014,11-03-2017,854,0,False,False,False,1.0,0.0,1.0,MANDREM,,BJP,,,,
+Goa,7,1,78.0,4.0,Shri Manohar Parrikar,14-03-2017,17-09-2019,917,3,False,False,False,,,,,,,,,,
+Goa,8,1,5021.0,1.0,Shri Pramod Sawant,17-09-2019,Current,652,0,False,False,False,17.0,0.0,1.0,,,,,,,
+Gujarat,1,1,87.0,1.0,Dr. Jivraj Narayan Mehta,03-03-1962,19-09-1963,565,NA,False,False,False,37.0,0.0,1.0,AMRELI,,INC,,,,
+Gujarat,1,2,88.0,1.0,Shri Balwantray Mehta,19-09-1963,19-09-1965,731,0,False,False,False,,,,,,,,,,
+Gujarat,1,3,89.0,1.0,Shri Hitendra K. Desai,19-09-1965,28-02-1967,527,0,False,False,False,141.0,0.0,1.0,OLPAD,,INC,,,,
+Gujarat,2,1,89.0,2.0,Shri Hitendra K. Desai,01-03-1967,13-05-1971,1534,1,False,False,False,155.0,0.0,1.0,OLPAD,,INC,,,,
+Gujarat,-1,1,,,President's Rule,13-05-1971,17-03-1972,309,0,True,False,False,,,,,,,,,,
+Gujarat,3,1,92.0,1.0,Shri Ghanshyambhai C. Oza,17-03-1972,17-07-1973,487,0,False,False,False,113.0,0.0,1.0,THASRA,,INC,,,,
+Gujarat,3,2,93.0,1.0,Shri Chimanbhai J. Patel,17-07-1973,09-02-1974,207,0,False,False,False,131.0,0.0,1.0,SANKHEDA,,INC,,,,
+Gujarat,-1,2,,,President's Rule,09-02-1974,18-06-1975,494,0,True,False,False,,,,,,,,,,
+Gujarat,4,1,95.0,1.0,Shri Babubhai J. Patel,18-06-1975,12-03-1976,268,0,False,False,False,67.0,0.0,1.0,SABARMATI,,NCO,,,,
+Gujarat,-1,3,,,President's Rule,12-03-1976,24-12-1976,287,0,True,False,False,,,,,,,,,,
+Gujarat,4,2,97.0,1.0,Shri Madhavsinh F. Solanki,24-12-1976,11-04-1977,108,0,False,False,False,139.0,0.0,1.0,BHARDRAN,,INC,,,,
+Gujarat,4,3,95.0,2.0,Shri Babubhai J. Patel,11-04-1977,17-02-1980,1042,0,False,False,False,67.0,0.0,1.0,SABARMATI,,NCO,,,,
+Gujarat,-1,4,,,President's Rule,17-02-1980,06-06-1980,110,0,True,False,False,,,,,,,,,,
+Gujarat,5,1,97.0,2.0,Shri Madhavsinh F. Solanki,07-06-1980,08-03-1985,1735,1,False,False,False,139.0,0.0,1.0,BHADRAN,,INC(I),,,,
+Gujarat,6,1,97.0,3.0,Shri Madhavsinh F. Solanki,09-03-1985,06-07-1985,119,1,False,False,False,139.0,0.0,1.0,BHADRAN,,INC,,,,
+Gujarat,6,2,102.0,1.0,Shri Amarsinh Chaudhary,06-07-1985,09-12-1989,1617,0,False,False,False,164.0,0.0,1.0,VYARA,,INC,,,,
+Gujarat,6,3,97.0,4.0,Shri Madhavsinh F. Solanki,10-12-1989,03-03-1990,83,1,False,False,False,139.0,0.0,1.0,BHADRAN,,INC,,,,
+Gujarat,7,1,93.0,2.0,Shri Chimanbhai Patel,03-03-1990,17-02-1994,1447,0,False,False,False,88.0,0.0,1.0,UNJHA,,JD,,,,
+Gujarat,7,2,105.0,1.0,Shri Chhabildas Mehta,17-02-1994,13-03-1995,389,0,False,False,False,54.0,0.0,1.0,MAHUVA,,JD,,,,
+Gujarat,8,1,106.0,1.0,Shri Keshubhai Savdasbhai Patel,14-03-1995,20-10-1995,220,1,False,False,False,40.0,0.0,1.0,VISAVADAR,,BJP,,,,
+Gujarat,8,2,107.0,1.0,Shri Sureshchandra Rupshanker Mehta,21-10-1995,19-09-1996,334,1,False,False,False,2.0,0.0,1.0,MANDVI,,BJP,,,,
+Gujarat,-1,5,,,President's Rule,19-09-1996,23-10-1996,34,0,True,False,False,,,,,,,,,,
+Gujarat,8,3,109.0,1.0,Shri Shankersinhji Laxmansinhji Vaghela,23-10-1996,27-10-1997,369,0,False,False,False,94.0,1.0,1.0,RADHANPUR,,RJP(G),,,,
+Gujarat,8,4,110.0,1.0,Shri Dilipbhai Ramanbhai Parikh,28-10-1997,04-03-1998,127,1,False,False,False,59.0,0.0,1.0,DHANDHUKA,,BJP,,,,
+Gujarat,9,1,106.0,2.0,Shri Keshubhai Savdasbhai Patel,04-03-1998,06-10-2001,1312,0,False,False,False,40.0,0.0,1.0,VISAVADAR,,BJP,,,,
+Gujarat,9,2,113.0,1.0,Shri Narendra Modi,07-10-2001,26-12-2002,445,1,False,False,False,18.0,1.0,1.0,,,,,,,
+Gujarat,10,1,113.0,2.0,Shri Narendra Modi,27-12-2002,17-01-2008,1847,1,False,False,False,77.0,0.0,1.0,MANINAGAR,,BJP,,,,
+Gujarat,11,1,113.0,3.0,Shri Narendra Modi,18-01-2008,22-01-2013,1831,1,False,False,False,77.0,0.0,1.0,MANINAGAR,,BJP,,,,
+Gujarat,12,1,113.0,4.0,Shri Narendra Modi,23-01-2013,22-05-2014,484,1,False,False,False,53.0,0.0,1.0,MANINAGAR,,BJP,,,,
+Gujarat,12,2,116.0,1.0,Smt. Anandiben Patel,22-05-2014,07-08-2016,808,0,False,False,False,41.0,0.0,1.0,GHATLODIA,,BJP,,,,
+Gujarat,12,3,117.0,1.0,Shri Vijaybhai R. Rupani,07-08-2016,21-12-2017,501,0,False,False,False,69.0,1.0,1.0,RAJKOT WEST,,BJP,,,,
+Gujarat,13,1,117.0,2.0,Shri Vijaybhai R. Rupani,26-12-2017,Current,1282,5,False,False,False,69.0,0.0,1.0,RAJKOT WEST,,BJP,,,,
+Haryana,0,1,118.0,1.0,Shri Bhagwat Dayal Sharma,01-11-1966,10-03-1967,129,NA,False,False,False,,,,,,,,,,
+Haryana,1,1,118.0,2.0,Shri Bhagwat Dayal Sharma,11-03-1967,23-03-1967,12,1,False,False,False,,,,,,,,,,
+Haryana,1,2,120.0,1.0,Rao Birender Singh,24-03-1967,20-11-1967,241,1,False,False,False,55.0,0.0,1.0,PATAUDI,AEHR307,INC,1.0,False,False,False
+Haryana,-1,1,,,President's Rule,21-11-1967,22-05-1968,183,1,True,False,False,,,,,,,,,,
+Haryana,2,1,122.0,1.0,SHRI BANSI LAL,21-05-1968,14-03-1972,1393,NA,False,False,False,66.0,0.0,1.0,TOSHAM,AEHR792,INC,1.0,False,False,False
+Haryana,3,1,122.0,2.0,SHRI BANSI LAL,14-03-1972,30-11-1975,1356,0,False,False,False,66.0,0.0,1.0,TOSHAM,AEHR792,INC,2.0,False,True,True
+Haryana,3,2,124.0,1.0,Shri Banarsi Das Gupta,01-12-1975,30-04-1977,516,1,False,False,False,67.0,0.0,1.0,BHIWANI,AEHR799,INC,2.0,False,True,True
+Haryana,-1,2,,,President's Rule,30-04-1977,21-06-1977,52,0,True,False,False,,,,,,,,,,
+Haryana,4,1,126.0,1.0,Chaudhary Devi Lal,21-06-1977,28-06-1979,737,0,False,False,False,73.0,0.0,1.0,BHATTU KALAN,AEHR1791,JNP,1.0,False,False,False
+Haryana,4,2,127.0,1.0,Shri Bhajan Lal,28-06-1979,23-05-1982,1060,0,False,False,False,79.0,0.0,1.0,ADAMPUR,AEHR828,JNP,3.0,True,True,True
+Haryana,5,1,127.0,2.0,Shri Bhajan Lal,23-05-1982,04-06-1986,1473,0,False,False,False,79.0,0.0,1.0,ADAMPUR,AEHR828,INC,4.0,True,True,True
+Haryana,5,2,122.0,3.0,SHRI BANSI LAL,05-06-1986,20-06-1987,380,1,False,False,False,67.0,1.0,1.0,TOSHAM,AEHR100316,INC,1.0,False,False,False
+Haryana,6,1,126.0,2.0,Chaudhary Devi Lal,20-06-1987,02-12-1989,896,0,False,False,False,31.0,0.0,1.0,MEHAM,AEHR2267,LKD,2.0,False,False,True
+Haryana,6,2,133.0,1.0,Shri Om Parkash Chautala,02-12-1989,22-05-1990,171,0,False,False,False,,,,,,,,,,
+Haryana,6,3,124.0,2.0,Shri Banarsi Das Gupta,23-05-1990,12-07-1990,50,1,False,False,False,66.0,0.0,1.0,BHIWANI,AEHR3969,LKD,1.0,False,False,False
+Haryana,6,4,133.0,2.0,Shri Om Parkash Chautala,12-07-1990,17-07-1990,5,0,False,False,False,,,,,,,,,,
+Haryana,6,5,134.0,1.0,Shri Hukam Singh,17-07-1990,22-03-1991,248,0,False,False,False,64.0,0.0,1.0,DADRI,AEHR353,LKD,3.0,False,True,True
+Haryana,6,6,133.0,3.0,Shri Om Parkash Chautala,22-03-1991,05-04-1991,14,0,False,False,False,33.0,0.0,1.0,BERI,AEHR6928,LKD,1.0,True,False,False
+Haryana,-1,3,,,President's Rule,06-04-1991,23-06-1991,78,1,True,False,False,,,,,,,,,,
+Haryana,7,1,127.0,3.0,Shri Bhajan Lal,23-06-1991,10-05-1996,1783,0,False,False,False,79.0,0.0,1.0,ADAMPUR,AEHR5955,INC,1.0,False,False,False
+Haryana,8,1,122.0,4.0,SHRI BANSI LAL,11-05-1996,21-07-1999,1166,1,False,False,False,67.0,0.0,1.0,TOSHAM,AEHR792,HVP,4.0,False,True,True
+Haryana,8,2,133.0,4.0,Shri Om Parkash Chautala,24-07-1999,02-03-2000,222,3,False,False,False,,,,,,,,,,
+Haryana,9,1,133.0,5.0,Shri Om Parkash Chautala,02-03-2000,05-03-2005,1829,0,False,False,False,45.0,0.0,1.0,NARWANA,AEHR2416,INLD,3.0,True,True,True
+Haryana,10,1,141.0,1.0,Shri Bhupinder Singh Hooda,05-03-2005,25-10-2009,1695,0,False,False,False,29.0,1.0,1.0,Kiloi,AEHR2236,INC,2.0,False,False,True
+Haryana,11,1,141.0,2.0,Shri Bhupinder Singh Hooda,25-10-2009,25-10-2014,1826,0,False,False,False,61.0,0.0,1.0,GARHI SAMPLA-KILOI,AEHR2236,INC,3.0,False,True,True
+Haryana,12,1,5031.0,1.0,Shri Manohar Lal Khattar,26-10-2014,26-10-2019,1826,1,False,False,False,21.0,0.0,1.0,KARNAL,AEHR12198,BJP,1.0,False,False,False
+Haryana,13,1,5031.0,2.0,Shri Manohar Lal Khattar,27-10-2019,Current,612,1,False,False,False,21.0,0.0,1.0,KARNAL,AEHR12198,BJP,2.0,False,True,True
+Jammu_&_Kashmir,1,1,143.0,1.0,Bakshi Ghulam Mohammad,20-02-1962,12-10-1963,599,NA,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,1,2,144.0,1.0,Khwaja Shamsuddin,12-10-1963,29-02-1964,140,0,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,1,3,145.0,1.0,Ghulam Mohammed Sadiq,29-02-1964,30-03-1965,395,0,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,1,4,145.0,2.0,Shri Ghulam Mohammed Sadiq,30-03-1965,22-02-1967,694,0,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,2,1,145.0,3.0,Shri Ghulam Mohammed Sadiq,23-02-1967,12-12-1971,1753,1,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,2,2,148.0,1.0,Syed Mir Qasim,12-12-1971,25-02-1975,1171,0,False,False,False,41.0,0.0,1.0,VERINAG,,INC,,,,
+Jammu_&_Kashmir,3,1,149.0,1.0,Sheikh Mohammad Abdullah,25-02-1975,26-03-1977,760,0,False,True,False,,,,,,,,,,
+Jammu_&_Kashmir,-1,1,,,Governor's Rule (Lakshmi Kanth Jha),26-03-1977,09-07-1977,105,0,True,False,False,,,,,,,,,,
+Jammu_&_Kashmir,4,1,149.0,2.0,Sheikh Mohammad Abdullah,09-07-1977,08-09-1982,1887,0,False,False,False,15.0,0.0,1.0,GANDERBAL,,JKN,,,,
+Jammu_&_Kashmir,4,2,152.0,1.0,Dr Farooq Abdullah,08-09-1982,04-05-1983,238,0,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,5,1,152.0,2.0,Dr Farooq Abdullah,05-05-1983,02-07-1984,424,1,False,False,False,,,,,,,,,,
+Jammu_&_Kashmir,5,2,154.0,1.0,Shri Ghulam Mohammad Shah,02-07-1984,06-03-1986,612,0,False,True,False,,,,,,,,,,
+Jammu_&_Kashmir,-1,2,,,Governor's Rule (Shri Jagmohan),06-03-1986,07-11-1986,246,0,True,False,False,,,,,,,,,,
+Jammu_&_Kashmir,5,3,152.0,3.0,Dr Farooq Abdullah,07-11-1986,24-03-1987,137,0,False,False,False,15.0,0.0,1.0,GANDERBAL,,JKN,,,,
+Jammu_&_Kashmir,6,1,152.0,4.0,Dr Farooq Abdullah,25-03-1987,19-01-1990,1031,1,False,False,False,15.0,0.0,1.0,GANDERBAL,,JKN,,,,
+Jammu_&_Kashmir,-1,3,,,Governor's Rule (Shri Jagmohan),19-01-1990,09-10-1996,2455,0,True,False,False,,,,,,,,,,
+Jammu_&_Kashmir,7,1,152.0,5.0,Dr Farooq Abdullah,09-10-1996,18-10-2002,2200,0,False,False,False,17.0,0.0,1.0,GANDERBAL,,JKN,,,,
+Jammu_&_Kashmir,8,1,164.0,1.0,Mufti Mohammad Sayeed,02-11-2002,02-11-2005,1096,15,False,False,False,46.0,1.0,1.0,Pahalgam,,JKPDP,,,,
+Jammu_&_Kashmir,8,2,161.0,1.0,Shri Ghulam Nabi Azad,02-11-2005,11-07-2008,982,0,False,False,False,54.0,1.0,1.0,Bhaderwah,,,,,,
+Jammu_&_Kashmir,-1,4,,,Governor's Rule (Shri N N Vora),11-07-2008,05-01-2009,178,0,True,False,False,,,,,,,,,,
+Jammu_&_Kashmir,9,1,163.0,1.0,Shri Omar Abdullah,05-01-2009,08-01-2015,2194,0,False,False,False,17.0,0.0,1.0,GANDERBAL,,JKN,,,,
+Jammu_&_Kashmir,10,1,164.0,2.0,Mufti Mohammad Sayeed 0,03-03-2015,07-01-2016,310,54,False,False,False,40.0,0.0,1.0,ANANTNAG,,JKPDP,,,,
+Jammu_&_Kashmir,-1,5,,,Governor's Rule (Shri N N Vora),08-01-2016,03-04-2016,86,1,True,False,False,,,,,,,,,,
+Jammu_&_Kashmir,10,2,166.0,1.0,Ms Mehbooba Mufti,04-04-2016,19-06-2018,806,1,False,False,False,40.0,1.0,1.0,ANANTNAG,,JPDP,,,,
+Jammu_&_Kashmir,-1,6,,,Governor's Rule (Shri Satya Pal Malik),23-08-2018,31-10-2019,434,65,True,False,False,,,,,,,,,,
+Jammu_&_Kashmir,-1,7,,,Lt. Governor's Rule (Shri Girish Chandra Murmu),31-10-2019,05-08-2020,279,0,True,False,False,,,,,,,,,,
+Karnataka,0,1,169.0,1.0,Sri S.R.KANTHI,14-03-1962,20-06-1962,98,NA,False,False,False,,,,,,,,,,
+Karnataka,0,2,170.0,1.0,Sri S.NIJALINGAPPA,21-06-1962,14-03-1967,1727,1,False,False,False,,,,,,,,,,
+Karnataka,0,3,170.0,2.0,Sri S.NIJALINGAPPA,15-03-1967,28-05-1968,440,1,False,False,False,,,,,,,,,,
+Karnataka,0,4,172.0,1.0,Sri VEERENDRA PATIL,29-05-1968,18-03-1971,1023,1,False,False,False,,,,,,,,,,
+Karnataka,-1,1,,,President's Rule,19-03-1971,20-03-1972,367,1,True,False,False,,,,,,,,,,
+Karnataka,0,5,174.0,1.0,Sri D.DEVRAJ URS,20-03-1972,31-12-1977,2112,0,False,False,False,,,,,,,,,,
+Karnataka,-1,2,,,President's Rule,31-12-1977,28-02-1978,59,0,True,False,False,,,,,,,,,,
+Karnataka,1,1,176.0,1.0,Sri D.DEVARAJ URS,28-02-1978,07-01-1980,678,0,False,False,False,123.0,0.0,1.0,HUNSUR,AEKA107930,INC(I),1.0,False,False,False
+Karnataka,1,2,177.0,1.0,Sri R.GUNDU RAO,12-01-1980,06-01-1983,1090,5,False,False,False,128.0,0.0,1.0,SOMWARPET,AEKA106140,INC(I),1.0,False,False,False
+Karnataka,1,3,178.0,1.0,Sri RAMAKRISHNA HEGDE,10-01-1983,23-07-1983,194,4,False,False,False,171.0,0.0,1.0,ANKOLA,AEKA13380,JNP,1.0,False,False,False
+Karnataka,2,1,178.0,2.0,Sri RAMAKRISHNA HEGDE,24-07-1983,29-12-1984,524,1,False,False,False,171.0,0.0,1.0,ANKOLA,AEKA13379,INC,1.0,False,False,False
+Karnataka,3,1,178.0,3.0,Sri RAMAKRISHNA HEGDE,08-03-1985,13-02-1986,342,69,False,False,False,82.0,0.0,1.0,BASAVANAGUDI,AEKA10205,JNP,1.0,False,False,False
+Karnataka,3,2,178.0,4.0,Sri RAMAKRISHNA HEGDE,16-02-1986,10-08-1988,906,3,False,False,False,82.0,0.0,1.0,BASAVANAGUDI,AEKA10205,JNP,1.0,False,False,False
+Karnataka,3,3,182.0,1.0,Sri S.R.BOMMAI,13-08-1988,21-04-1989,251,3,False,False,False,177.0,0.0,1.0,HUBLI RURAL,AEKA10869,JNP,1.0,False,False,False
+Karnataka,-1,3,,,President's Rule,21-04-1989,30-11-1989,223,0,True,False,False,,,,,,,,,,
+Karnataka,4,1,172.0,2.0,Sri VEERENDRA PATIL,30-11-1989,10-10-1990,314,0,False,False,False,7.0,0.0,1.0,CHINCHOLI,AEKA107272,INC,1.0,False,False,False
+Karnataka,-1,4,,,President's Rule,10-10-1990,17-10-1990,7,0,True,False,False,,,,,,,,,,
+Karnataka,4,2,186.0,1.0,Sri S.BANGARAPPA,17-10-1990,19-11-1992,764,0,False,False,False,166.0,0.0,1.0,SORAB,AEKA107071,INC,4.0,False,True,True
+Karnataka,4,3,187.0,1.0,Sri VEERAPPA MOILY,19-11-1992,11-12-1994,752,0,False,False,False,150.0,0.0,1.0,KARKAL,AEKA106234,INC,4.0,False,True,True
+Karnataka,5,1,188.0,1.0,Sri H.D.DEVEGOWDA,11-12-1994,31-05-1996,537,0,False,False,False,94.0,0.0,1.0,RAMANAGARAM,AEKA106161,JD,4.0,True,False,True
+Karnataka,5,2,189.0,1.0,Sri J.H.PATEL,31-05-1996,07-10-1999,1224,0,False,False,False,158.0,0.0,1.0,CHANNAGIRI,GENA18881,JD,4.0,False,False,True
+Karnataka,6,1,190.0,1.0,Sri S.M.KRISHNA,11-10-1999,28-05-2004,1691,4,False,False,False,102.0,0.0,1.0,MADDUR,AEKA107872,INC,2.0,False,False,True
+Karnataka,7,1,191.0,1.0,Sri DHARAM SINGH,28-05-2004,02-02-2006,615,0,False,False,False,15.0,0.0,1.0,JEWARGI,AEKA108,INC,7.0,False,True,True
+Karnataka,7,2,192.0,1.0,Sri H.D.KUMARA SWAMY,03-02-2006,08-10-2007,612,1,False,False,False,94.0,0.0,1.0,RAMANAGARAM,GEKA3026,JD(S),1.0,False,False,True
+Karnataka,-1,5,,,President's Rule,8-10-2007,12-11-2007,35,0,True,False,False,,,,,,,,,,
+Karnataka,7,3,194.0,1.0,Sri B.S.YEDDYURAPPA,12-11-2007,19-11-2007,7,0,False,False,False,167.0,0.0,1.0,SHIKARIPUR,AEKA2060,BJP,5.0,False,False,True
+Karnataka,-1,6,,,President's Rule,20-11-2007,29-05-2008,191,1,True,False,False,,,,,,,,,,
+Karnataka,8,1,194.0,2.0,Dr B.S.YEDDYURAPPA,30-05-2008,04-08-2011,1161,1,False,False,False,115.0,0.0,1.0,SHIKARIPURA,AEKA2060,BJP,6.0,False,True,True
+Karnataka,8,2,197.0,1.0,Sri D.V.SADANANDA GOWDA,05-08-2011,11-07-2012,341,1,False,True,False,,,,,,,,,,
+Karnataka,8,3,198.0,1.0,Sri JAGADISH SHETTAR,12-07-2012,12-05-2013,304,1,False,False,False,73.0,0.0,1.0,HUBLI-DHARWAD-CENTRAL,AEKA1493,BJP,4.0,False,True,True
+Karnataka,9,1,5041.0,1.0,Sri Siddaramaiah,13-05-2013,15-05-2018,1828,1,False,False,False,219.0,0.0,1.0,VARUNA,AEKA3440,INC,6.0,False,True,True
+Karnataka,10,1,194.0,3.0,Sri B.S.YEDDYURAPPA,17-05-2018,19-05-2018,2,2,False,False,False,115.0,0.0,1.0,SHIKARIPURA,AEKA2060,BJP,8.0,True,False,True
+Karnataka,10,2,5042.0,1.0,Sri H.D.KUMARA SWAMY,23-05-2018,23-07-2019,426,4,False,False,False,183.0,0.0,1.0,RAMANAGARAM,GEKA3026,JD(S),4.0,False,True,True
+Karnataka,10,3,194.0,4.0,Sri B.S.YEDDYURAPPA,26-07-2019,Current,705,3,False,False,False,115.0,0.0,1.0,SHIKARIPURA,AEKA2060,BJP,8.0,True,False,True
+Kerala,-1,1,,,President's Rule,10-09-1964,06-03-1967,907,NA,True,False,False,,,,,,,,,,
+Kerala,4,1,200.0,1.0,Shri. E. M. S. Namboodiripad,06-03-1967,01-11-1969,971,0,False,False,False,37.0,0.0,1.0,PATTAMBI,AEKL110006,CPM,,False,False,False
+Kerala,4,2,201.0,1.0,Shri. C. Achutha Menon,01-11-1969,01-08-1970,273,0,False,False,False,111.0,1.0,1.0,,,,,,,
+Kerala,-1,2,,,President's Rule,01-08-1970,04-10-1970,64,0,True,False,False,,,,,,,,,,
+Kerala,5,1,201.0,2.0,Shri. C. Achutha Menon,04-10-1970,25-03-1977,2364,0,False,False,False,56.0,0.0,1.0,KODAKARA,AEKL109569,CPI,,False,False,False
+Kerala,6,1,213.0,1.0,Shri. K. Karunakaran,25-03-1977,25-04-1977,31,0,False,False,False,62.0,0.0,1.0,MALA,AEKL105660,INC,,False,True,True
+Kerala,6,2,214.0,1.0,Shri. A. K. Antony,27-04-1977,27-10-1978,548,2,False,False,False,,,,,,,,,,
+Kerala,6,3,206.0,1.0,Shri. P. K. Vasudevan Nair,29-10-1978,07-10-1979,343,2,False,False,False,100.0,0.0,1.0,ALLEPPEY,GEKL16737,CPI,,False,False,False
+Kerala,6,4,207.0,1.0,Shri. C. H. Mohammed Koya,12-10-1979,01-12-1979,50,5,False,False,False,34.0,0.0,1.0,MALAPPURAM,AEKL108285,MUL,,False,False,False
+Kerala,-1,3,,,President's Rule,01-12-1979,25-01-1980,55,0,True,False,False,,,,,,,,,,
+Kerala,7,1,215.0,1.0,Shri. E. K. Nayanar,25-01-1980,20-10-1981,634,0,False,False,False,48.0,0.0,1.0,MALAMPUZHA,AEKL108333,CPM,,False,False,False
+Kerala,7,2,213.0,2.0,Shri. K. Karunakaran,28-12-1981,17-03-1982,79,69,False,False,False,62.0,0.0,1.0,MALA,AEKL105660,INC(I),,True,True,True
+Kerala,8,1,213.0,3.0,Shri. K. Karunakaran,24-05-1982,25-03-1987,1766,68,False,False,False,62.0,0.0,1.0,MALA,AEKL105660,INC,,True,True,True
+Kerala,9,1,215.0,2.0,Shri. E. K. Nayanar,26-03-1987,17-06-1991,1544,1,False,False,False,5.0,0.0,1.0,TRIKKARPUR,AEKL108333,CPM,,False,True,True
+Kerala,10,1,213.0,4.0,Shri. K. Karunakaran,24-06-1991,16-03-1995,1361,7,False,False,False,62.0,0.0,1.0,MALA,AEKL105660,INC,,False,True,True
+Kerala,10,2,214.0,2.0,Shri. A. K. Antony,22-03-1995,09-05-1996,414,6,False,False,False,36.0,1.0,1.0,Thirurangadi,,,,,False,False
+Kerala,11,1,215.0,3.0,Shri. E. K. Nayanar,20-05-1996,13-05-2001,1819,11,False,False,False,12.0,1.0,1.0,Tellicherry,AEKL108333,CPM,,False,False,True
+Kerala,12,1,214.0,3.0,Shri. A. K. Antony,17-05-2001,29-08-2004,1200,4,False,False,False,98.0,0.0,1.0,SHERTHALAI,AEKL103901,INC,,False,True,True
+Kerala,12,2,217.0,1.0,Shri. Oommen Chandy,31-08-2004,12-05-2006,619,2,False,False,False,92.0,0.0,1.0,PUTHUPPALLY,AEKL109684,INC,,False,True,True
+Kerala,13,1,218.0,1.0,Shri. V. S. Achuthanandan,18-05-2006,14-05-2011,1822,6,False,False,False,48.0,0.0,1.0,MALAMPUZHA,AEKL105902,CPM,,False,True,True
+Kerala,14,1,217.0,2.0,Shri. Oommen Chandy,18-05-2011,20-05-2016,1829,4,False,False,False,98.0,0.0,1.0,PUTHUPPALLY,AEKL109684,INC,,False,True,True
+Kerala,15,1,220.0,1.0,Shri. Pinarayi Vijayan,25-05-2016,03-05-2021,1804,5,False,False,False,12.0,0.0,1.0,DHARMADAM,AEKL105418,CPM,,False,False,False
+Kerala,16,1,220.0,2.0,Shri. Pinarayi Vijayan,20-05-2021,Current,41,17,False,False,False,12.0,0.0,1.0,DHARMADAM,AEKL105418,CPM,6.0,False,True,True
+Madhya_Pradesh,3,1,221.0,1.0,Shri Bhagwantrao Mandloi,12-03-1962,29-09-1963,566,NA,False,False,False,258.0,0.0,1.0,KHANDWA,AEMP1231,INC,1.0,False,False,False
+Madhya_Pradesh,3,2,222.0,1.0,Shri Dwarka Prasad Mishra,30-09-1963,08-03-1967,1255,1,False,False,False,,,,,,,,,,
+Madhya_Pradesh,4,1,222.0,2.0,Shri Dwarka Prasad Mishra,09-03-1967,29-07-1967,142,1,False,False,False,174.0,0.0,1.0,KATANGI,AEMP2313,INC,1.0,False,False,False
+Madhya_Pradesh,4,2,224.0,1.0,Shri Govindnarayan Singh,30-07-1967,12-03-1969,591,1,False,False,False,48.0,0.0,1.0,RAMPUR BHAGHELAN,AEMP1664,INC,1.0,False,False,False
+Madhya_Pradesh,4,3,225.0,1.0,Shri Raja Nareshchandra Singh,13-03-1969,25-03-1969,12,1,False,False,False,87.0,0.0,1.0,PUSSOUR,AEMP1877,INC,1.0,False,False,False
+Madhya_Pradesh,4,4,226.0,1.0,Shri Shyamacharan Shukla,26-03-1969,28-01-1972,1038,1,False,False,False,121.0,0.0,1.0,RAJIM,AEMP2052,INC,1.0,False,False,False
+Madhya_Pradesh,4,5,227.0,1.0,Shri Prakash Chandra Sethi,29-01-1972,22-03-1972,53,1,False,False,False,245.0,0.0,1.0,UJJAIN NORTH,AEMP2704,BJS,1.0,False,False,False
+Madhya_Pradesh,5,1,227.0,2.0,Shri Prakash Chandra Sethi,23-03-1972,22-12-1975,1369,1,False,False,False,245.0,0.0,1.0,UJJAIN NORTH,GEMP19195,INC,1.0,False,False,False
+Madhya_Pradesh,5,2,226.0,2.0,Shri Shyamacharan Shukla,23-12-1975,29-04-1977,493,1,False,False,False,121.0,0.0,1.0,RAJIM,AEMP631,INC,2.0,False,False,False
+Madhya_Pradesh,-1,1,,,President's Rule,30-04-1977,25-06-1977,56,1,True,False,False,,,,,,,,,,
+Madhya_Pradesh,6,1,231.0,1.0,Shri Kailsh Chandra Joshi,26-06-1977,17-01-1978,205,1,False,False,False,279.0,0.0,1.0,BAGLI,AEMP6173,JNP,1.0,False,False,False
+Madhya_Pradesh,6,2,232.0,1.0,Shri Virendra Kumar Sakhlecha,18-01-1978,19-01-1980,731,1,False,False,False,320.0,0.0,1.0,JAWAD,AEMP4304,JNP,1.0,True,False,True
+Madhya_Pradesh,6,3,233.0,1.0,Shri Sunderlal Patwa,20-01-1980,17-02-1980,28,1,False,False,False,237.0,0.0,1.0,SEHORE,AEMP14084,JNP,1.0,False,False,False
+Madhya_Pradesh,-1,2,,,President's Rule,18-02-1980,08-06-1980,111,1,True,False,False,,,,,,,,,,
+Madhya_Pradesh,7,1,235.0,1.0,Shri Arjun Singh,09-06-1980,10-03-1985,1735,1,False,False,False,73.0,0.0,1.0,CHURAHAT,AEMP4869,INC(I),2.0,True,True,True
+Madhya_Pradesh,8,1,235.0,2.0,Shri Arjun Singh,11-03-1985,12-03-1985,1,1,False,False,False,73.0,0.0,1.0,CHURAHAT,AEMP4869,INC,3.0,True,True,True
+Madhya_Pradesh,8,2,239.0,1.0,Shri Motilal Vora,13-03-1985,13-02-1988,1067,1,False,False,False,162.0,0.0,1.0,DURG,AEMP3657,INC,4.0,True,True,True
+Madhya_Pradesh,8,3,235.0,3.0,Shri Arjun Singh,14-02-1988,24-01-1989,345,1,False,False,False,73.0,0.0,1.0,CHURAHAT,AEMP4869,INC,3.0,True,True,True
+Madhya_Pradesh,8,4,239.0,2.0,Shri Motilal Vora,25-01-1989,08-12-1989,317,1,False,False,False,162.0,0.0,1.0,DURG,AEMP3657,INC,4.0,True,True,True
+Madhya_Pradesh,8,5,226.0,3.0,Shri Shyamacharan Shukla,09-12-1989,04-03-1990,85,1,False,False,True,,,,,,,,,,
+Madhya_Pradesh,9,1,233.0,2.0,Shri Sunderlal Patwa,05-03-1990,15-12-1992,1016,1,False,False,False,145.0,0.0,1.0,DHAMTARI,AEMP17107,BJP,1.0,False,False,False
+Madhya_Pradesh,-1,3,,,President's Rule,16-12-1992,06-12-1993,355,1,True,False,False,,,,,,,,,,
+Madhya_Pradesh,10,1,243.0,1.0,Shri Digvijay Singh,07-12-1993,01-12-1998,1820,1,False,False,False,30.0,1.0,1.0,Chachora,AEMP100526,INC,1.0,False,False,False
+Madhya_Pradesh,11,1,243.0,2.0,Shri Digvijay Singh,01-12-1998,08-12-2003,1833,0,False,False,False,31.0,0.0,1.0,RAGHOGARH,AEMP84686,INC,3.0,True,False,False
+Madhya_Pradesh,12,1,245.0,1.0,Sushri Uma Bharti,08-12-2003,23-08-2004,259,0,False,False,False,47.0,0.0,1.0,MALEHRA,AEMP21726,BJP,1.0,False,False,False
+Madhya_Pradesh,12,2,246.0,1.0,Shri Babulal Gaur,23-08-2004,29-11-2005,463,0,False,False,False,148.0,0.0,1.0,GOVINDPURA,AEMP7817,BJP,5.0,False,True,True
+Madhya_Pradesh,12,3,247.0,1.0,Shri Shivraj Singh Chouhan,29-11-2005,12-12-2008,1109,0,False,False,False,144.0,1.0,1.0,Budhni,AEMP100740,BJP,1.0,False,False,False
+Madhya_Pradesh,13,1,247.0,2.0,Shri Shivraj Singh Chouhan,12-12-2008,13-12-2013,1827,0,False,False,False,156.0,0.0,1.0,BUDHNI,AEMP13961,BJP,2.0,False,False,False
+Madhya_Pradesh,14,1,247.0,3.0,Shri Shivraj Singh Chouhan,14-12-2013,16-12-2018,1828,1,False,False,False,156.0,0.0,1.0,BUDHNI,AEMP28651,BJP,1.0,False,False,False
+Madhya_Pradesh,15,1,250.0,1.0,Shri Kamal Nath,17-12-2018,22-03-2020,461,1,False,False,False,,,,,,,,,,
+Madhya_Pradesh,15,2,247.0,4.0,Shri Shivraj Singh Chouhan,23-03-2020,Current,464,1,False,False,False,156.0,0.0,1.0,BUDHNI,AEMP28651,BJP,2.0,False,True,True
+Meghalaya,0,1,252.0,1.0,Capt. W.A. Sangma,02-04-1970,18-03-1972,716,NA,False,False,True,,,,,,,,,,
+Meghalaya,1,1,252.0,2.0,Capt. W.A. Sangma,18-03-1972,03-03-1978,2176,0,False,False,False,,,,,,,,,,
+Meghalaya,2,1,254.0,1.0,Shri D.D. Pugh,10-03-1978,06-05-1979,422,7,False,False,False,20.0,0.0,1.0,MAWKHAR,AEML5196209,AHL,1.0,False,False,False
+Meghalaya,2,2,255.0,1.0,Shri B.B. Lyngdoh,07-05-1979,07-05-1981,731,1,False,False,False,27.0,0.0,1.0,LYNGKYRDEM,AEML333,AHL,2.0,False,True,True
+Meghalaya,2,3,252.0,3.0,Capt. W.A. Sangma,07-05-1981,24-02-1983,658,0,False,False,False,37.0,0.0,1.0,BAGHMARA,AEAS197408,INC,1.0,False,False,False
+Meghalaya,3,1,255.0,2.0,Shri B.B. Lyngdoh,02-03-1983,31-03-1983,29,6,False,False,False,27.0,0.0,1.0,LYNGKYRDEM,AEML333,AHL,3.0,False,True,True
+Meghalaya,3,2,258.0,1.0,Shri W.A. Sangma,02-04-1983,05-02-1988,1770,2,False,False,False,37.0,0.0,1.0,BAGHMARA,AEAS197408,INC,2.0,False,True,True
+Meghalaya,4,1,259.0,1.0,Shri Purno A. Sangma,06-02-1988,25-03-1990,778,1,False,False,False,52.0,0.0,1.0,TURA,AEML1013,INC,1.0,False,False,False
+Meghalaya,4,2,255.0,3.0,Shri B.B. Lyngdoh,26-03-1990,10-10-1991,563,1,False,False,False,27.0,0.0,1.0,LYNGKYRDEM,AEML333,HPU,4.0,True,True,True
+Meghalaya,-1,1,,,President's Rule,11-10-1991,05-02-1992,117,1,True,False,False,,,,,,,,,,
+Meghalaya,4,3,262.0,1.0,Shri D.D. Lapang,05-02-1992,19-02-1993,380,0,False,False,False,10.0,0.0,1.0,NONGPOH,AEML55,INC,4.0,False,True,True
+Meghalaya,5,1,263.0,1.0,Shri S.C. Marak,19-02-1993,10-03-1998,1845,0,False,False,False,42.0,0.0,1.0,RESUBELPARA,AEML642,INC,5.0,False,True,True
+Meghalaya,6,1,255.0,4.0,Shri B.B. Lyngdoh,10-03-1998,08-03-2000,729,0,False,False,False,27.0,0.0,1.0,LYNGKYRDEM,AEML333,UDP,6.0,True,True,True
+Meghalaya,6,2,265.0,1.0,Shri E.K. Mawlong,08-03-2000,08-12-2001,640,0,False,False,False,9.0,0.0,1.0,UMROI,AEML84,UDP,5.0,True,True,True
+Meghalaya,6,3,266.0,1.0,Dr. F.A. Khonglam,08-12-2001,04-03-2003,451,0,False,False,False,29.0,0.0,1.0,SOHRA,AEML343,IND,3.0,False,True,True
+Meghalaya,7,1,262.0,2.0,Shri D.D. Lapang,04-03-2003,15-06-2006,1199,0,False,False,False,10.0,0.0,1.0,NONGPOH,AEML55,INC,6.0,False,True,True
+Meghalaya,7,2,268.0,1.0,Shri J. D. Rymbai,15-06-2006,10-03-2007,268,0,False,False,False,11.0,0.0,1.0,JIRANG,AEML5195487,INC,4.0,False,True,True
+Meghalaya,7,3,262.0,3.0,Shri D. D. Lapang,10-03-2007,19-03-2008,375,0,False,False,False,10.0,0.0,1.0,NONGPOH,AEML55,INC,6.0,False,True,True
+Meghalaya,8,1,270.0,1.0,Dr. Donkupar Roy,19-03-2008,19-03-2009,365,0,False,False,False,30.0,0.0,1.0,SHELLA,AEML472,UDP,5.0,False,True,True
+Meghalaya,-1,2,,,President's Rule,19-03-2009,13-04-2009,25,0,True,False,False,,,,,,,,,,
+Meghalaya,8,2,262.0,4.0,Shri D. D. Lapang,13-05-2009,18-04-2010,340,30,False,False,False,10.0,0.0,1.0,NONGPOH,AEML55,INC,7.0,False,True,True
+Meghalaya,8,3,273.0,1.0,Shri Mukul Sangma,20-04-2010,05-03-2013,1050,2,False,False,False,58.0,0.0,1.0,AMPATIGIRI,GEML5195848,INC,4.0,False,True,True
+Meghalaya,9,1,273.0,2.0,Shri Mukul Sangma,05-03-2013,04-03-2018,1825,0,False,False,False,53.0,0.0,1.0,AMPATI,GEML5195848,INC,5.0,False,True,True
+Meghalaya,10,1,5051.0,1.0,Shri Conrad Sangma,06-03-2018,Current,1212,2,False,False,False,,,,,,,,,,
+Mizoram,1,1,274.0,1.0,Ch Chhunga,03-05-1972,10-05-1977,1833,NA,False,False,False,27.0,0.0,1.0,KOLASIB,AEMZ1851,IND,1.0,False,False,False
+Mizoram,-1,1,,,President's Rule,11-05-1977,01-06-1978,386,1,True,False,False,,,,,,,,,,
+Mizoram,2,1,276.0,1.0,Brig T Sailo,2-6-1978,10-11-1978,161,1,False,False,False,27.0,0.0,1.0,AIZAWL NORTH,AEMZ5195732,PPC,1.0,False,False,False
+Mizoram,-1,2,,,President's Rule,11-11-1978,07-05-1979,177,1,True,False,False,,,,,,,,,,
+Mizoram,3,1,276.0,2.0,Brig T Sailo,08-05-1979,04-05-1984,1823,1,False,False,False,27.0,0.0,1.0,AIZAWL NORTH,AEMZ5195732,PPC,2.0,False,True,True
+Mizoram,4,1,287.0,1.0,Lal Thanhawla,05-05-1984,20-08-1986,837,1,False,False,False,24.0,0.0,1.0,SERCHHIP,AEMZ5196116,INC,2.0,True,True,True
+Mizoram,4,2,280.0,1.0,Laldenga,21-08-1986,19-02-1987,182,1,False,False,True,,,,,,,,,,
+Mizoram,5,1,280.0,2.0,Laldenga,20-02-1987,07-10-1988,595,1,False,False,False,34.0,0.0,1.0,AIZAWL NORTH II,AEMZ5196127,IND,1.0,False,False,False
+Mizoram,-1,1,,,President's Rule,08-10-1988,23-01-1989,107,1,True,False,False,,,,,,,,,,
+Mizoram,6,1,287.0,2.0,Lal Thanhawla,24-01-1989,07-12-1993,1778,1,False,False,False,25.0,0.0,1.0,LOKICHERRA,AEMZ5196115,INC,2.0,False,False,False
+Mizoram,7,1,287.0,3.0,Lal Thanhawla,08-12-1993,03-12-1998,1821,1,False,False,False,30.0,0.0,1.0,SERCHHIP,AEMZ5196116,INC,5.0,False,True,True
+Mizoram,8,1,289.0,1.0,Zoramthanga,04-12-1998,01-12-2003,1823,1,False,False,False,14.0,0.0,1.0,KHAWBUNG,GEMZ5196270,MNF,4.0,False,True,True
+Mizoram,9,1,289.0,2.0,Zoramthanga,02-12-2003,09-12-2008,1834,1,False,False,False,15.0,0.0,1.0,CHAMPHAI,GEMZ5196270,MNF,5.0,False,True,True
+Mizoram,10,1,287.0,4.0,Lal Thanhawla,10-12-2008,11-12-2013,1827,1,False,False,False,26.0,0.0,1.0,SERCHHIP,AEMZ5196116,INC,7.0,False,True,True
+Mizoram,11,1,287.0,5.0,Lal Thanhawla,12-12-2013,14-12-2018,1828,1,False,False,False,26.0,0.0,1.0,SERCHHIP,AEMZ5196116,INC,8.0,False,True,True
+Mizoram,12,1,289.0,3.0,Zoramthanga,15-12-2018,Current,928,1,False,False,False,13.0,0.0,1.0,AIZAWL EAST - I,GEMZ5196270,MNF,6.0,False,False,True
+Nagaland,1,1,290.0,1.0,P.Shilu Ao,11-02-1964,14-08-1966,915,NA,False,False,True,,,,,,,,,,
+Nagaland,1,2,291.0,1.0,T.N. Angami,14-08-1966,22-02-1969,923,0,False,False,False,6.0,0.0,1.0,WESTREN ANGAMI,AENL245,IND,,False,False,False
+Nagaland,2,1,292.0,1.0,Hokishe Sema,22-02-1969,26-02-1974,1830,0,False,False,False,30.0,0.0,1.0,AKULUTO,AENL5196035,NNO,,False,True,True
+Nagaland,3,1,293.0,1.0,Vizol Angami,26-02-1974,10-03-1975,377,0,False,False,False,15.0,0.0,1.0,SOUTHERN ANGAMI-II,AENL1117,UDF,,False,False,False
+Nagaland,3,2,294.0,1.0,John Bosco Jasokie,10-03-1975,20-03-1975,10,0,False,False,False,9.0,0.0,1.0,KOHIMA TOWN,AENL16,NNO,,False,True,True
+Nagaland,-1,1,,,President's Rule,20-03-1975,25-11-1977,981,0,True,False,False,,,,,,,,,,
+Nagaland,4,1,293.0,2.0,Vizol Angami,25-11-1977,18-04-1980,875,0,False,False,False,15.0,0.0,1.0,SOUTHERN ANGAMI-II,AENL1117,UDF,,False,True,True
+Nagaland,4,2,297.0,1.0,S.C. Jamir,18-04-1980,04-06-1980,47,0,False,False,False,26.0,0.0,1.0,AONGLENDEN,AENL526,UDF,,False,False,False
+Nagaland,4,3,294.0,2.0,John Bosco Jasokie,05-06-1980,18-11-1982,896,1,False,False,False,9.0,0.0,1.0,KOHIMA TOWN,AENL16,INC,,True,True,True
+Nagaland,5,1,297.0,2.0,S.C. Jamir,18-11-1982,28-10-1986,1440,0,False,False,False,26.0,0.0,1.0,AONGLENDEN,AENL526,INC,,True,True,True
+Nagaland,5,2,292.0,2.0,Hokishe Sema,29-10-1986,21-11-1987,388,1,False,False,False,4.0,0.0,1.0,GHASPANI-I,AENL449,INC,,False,True,True
+Nagaland,6,1,292.0,3.0,Hokishe Sema,21-11-1987,07-08-1988,260,0,False,False,False,4.0,0.0,1.0,GHASPANI-I,AENL449,INC,,False,True,True
+Nagaland,-1,2,,,President's Rule,07-08-1988,25-01-1989,171,0,True,False,False,,,,,,,,,,
+Nagaland,7,1,297.0,3.0,S.C. Jamir,25-01-1989,10-05-1990,470,0,False,False,False,27.0,0.0,1.0,MOKOKCHUNG TOWN,AENL526,INC,,False,False,False
+Nagaland,7,2,304.0,1.0,K.L. Chishi,16-05-1990,19-06-1990,34,6,False,False,False,32.0,0.0,1.0,ATOIZU,AENL279,NPC,,True,True,True
+Nagaland,7,3,305.0,1.0,Vamuzo Phesao,19-06-1990,02-04-1992,653,0,False,False,False,,,,,,,,,,
+Nagaland,-1,3,,,President's Rule,02-04-1992,22-02-1993,326,0,True,False,False,,,,,,,,,,
+Nagaland,8,1,297.0,4.0,S.C. Jamir,22-02-1993,04-03-1998,1836,0,False,False,False,27.0,0.0,1.0,MOKOKCHUNG TOWN,AENL526,INC,,False,True,True
+Nagaland,9,1,297.0,5.0,S.C. Jamir,04-03-1998,06-03-2003,1828,0,False,False,False,26.0,0.0,1.0,AONGLENDEN,AENL526,INC,,False,True,True
+Nagaland,10,1,309.0,1.0,Neiphiu Rio,06-03-2003,03-01-2008,1764,0,False,False,False,11.0,0.0,1.0,NORTHERN ANGAMI-II,AENL104,NPF,,True,True,True
+Nagaland,-1,4,,,President's Rule,03-01-2008,12-03-2008,69,0,True,False,False,,,,,,,,,,
+Nagaland,11,2,309.0,2.0,Neiphiu Rio,12-03-2008,27-02-2013,1813,0,False,False,False,11.0,0.0,1.0,NORTHERN ANGAMI-II,AENL104,NPF,,False,True,True
+Nagaland,12,1,309.0,3.0,Neiphiu Rio,28-02-2013,23-05-2014,449,1,False,False,False,11.0,0.0,1.0,NORTHERN ANGAMI-II,AENL104,NPF,,False,True,True
+Nagaland,12,2,313.0,1.0,T.R. Zeliang,24-05-2014,19-02-2017,1002,1,False,False,False,7.0,0.0,1.0,PEREN,AENL71,NPF,,False,True,True
+Nagaland,12,3,314.0,1.0,Dr.Shurhozelie Liezietsu,22-02-2017,18-07-2017,146,3,False,False,False,,,,,,,,,,
+Nagaland,12,4,313.0,2.0,T.R. Zeliang,19-07-2017,07-03-2018,231,1,False,False,False,7.0,0.0,1.0,PEREN,AENL71,NPF,,False,True,True
+Nagaland,13,1,309.0,4.0,Neiphiu Rio,08-03-2018,Current,1210,1,False,False,False,11.0,0.0,1.0,NORTHERN ANGAMI-II,AENL104,NDPP,,True,False,True
+Odisha,4,1,317.0,1.0,Shri Rajendra Narayan Singh Deo,08-03-1967,09-01-1971,1403,NA,False,False,False,103.0,0.0,1.0,BOLANGIR,AEOD11198,SWA,1.0,False,False,False
+Odisha,-1,1,,,President's Rule,11-01-1971,03-04-1971,82,2,True,False,False,,,,,,,,,,
+Odisha,5,1,319.0,1.0,Shri Biswanath Das,03-04-1971,14-06-1972,438,0,False,False,False,125.0,1.0,1.0,ROURKELA,AEOD10658,IND,1.0,False,False,False
+Odisha,5,2,320.0,1.0,Smt. Nandini Satapathy,14-06-1972,03-03-1973,262,0,False,False,False,41.0,1.0,1.0,CUTTACK,AEOD10177,INC,1.0,False,False,False
+Odisha,-1,2,,,President's Rule,03-03-1973,06-03-1974,368,0,True,False,False,,,,,,,,,,
+Odisha,6,1,320.0,2.0,Smt. Nandini Satapathy,06-03-1974,16-12-1976,1016,0,False,False,False,41.0,1.0,1.0,,,,,,,
+Odisha,-1,3,,,President's Rule,16-12-1976,29-12-1976,13,0,True,False,False,,,,,,,,,,
+Odisha,6,2,324.0,1.0,Shri Binayak Acharya,29-12-1976,30-04-1977,122,0,False,False,False,75.0,0.0,1.0,BERHAMPUR,AEOD10342,INC,2.0,False,True,True
+Odisha,-1,4,,,President's Rule,30-04-1977,26-06-1977,57,0,True,False,False,,,,,,,,,,
+Odisha,7,1,326.0,1.0,Shri Nilamani Routray,26-06-1977,17-02-1980,966,0,False,False,False,22.0,0.0,1.0,BASUDEVPUR,AEOD8671,JNP,1.0,False,False,False
+Odisha,-1,5,,,President's Rule,17-02-1980,09-06-1980,113,0,True,False,False,,,,,,,,,,
+Odisha,8,1,332.0,1.0,Shri Janaki Ballav Patnaik,09-06-1980,09-03-1985,1734,0,False,False,False,47.0,1.0,1.0,ATHGARH,AEOD8061,INC(I),1.0,False,False,False
+Odisha,9,1,332.0,2.0,Shri Janaki Ballav Patnaik,09-03-1985,07-12-1989,1734,0,False,False,False,47.0,0.0,1.0,ATHGARH,GEOD00000163,INC,1.0,False,False,False
+Odisha,9,2,334.0,1.0,Shri Hemananda Biswal,07-12-1989,04-03-1990,87,0,False,False,False,131.0,0.0,1.0,LAIKERA,GEOD70941,INC,3.0,True,True,True
+Odisha,10,1,331.0,1.0,Shri Biju Patnaik,05-03-1990,15-03-1995,1836,1,False,False,False,50.0,0.0,1.0,BHUBANESWAR,AEOD10214,JD,3.0,True,True,True
+Odisha,11,1,332.0,3.0,Shri Janaki Ballav Patnaik,15-03-1995,17-02-1999,1435,0,False,False,False,6.0,1.0,1.0,Begunia,AEOD8061,INC,2.0,True,False,False
+Odisha,11,2,333.0,1.0,Dr. Giridhar Gamang,17-02-1999,06-12-1999,292,0,False,False,False,,,,,,,,,,
+Odisha,11,3,334.0,2.0,Shri Hemananda Biswal,06-12-1999,05-03-2000,90,0,False,False,False,131.0,0.0,1.0,LAIKERA,GEOD70941,INC,5.0,False,True,True
+Odisha,12,1,5061.0,1.0,Shri Naveen Patnaik,05-03-2000,15-05-2004,1532,0,False,False,False,73.0,0.0,1.0,HINJILI,AEOD4163,BJD,1.0,False,False,False
+Odisha,13,1,5061.0,2.0,Shri Naveen Patnaik,16-05-2004,21-05-2009,1831,1,False,False,False,73.0,0.0,1.0,HINJILI,AEOD4163,BJD,2.0,False,True,True
+Odisha,14,1,5061.0,3.0,Shri Naveen Patnaik,21-05-2009,21-05-2014,1826,0,False,False,False,131.0,0.0,1.0,HINJILI,AEOD4163,BJD,3.0,False,True,True
+Odisha,15,1,5061.0,4.0,Shri Naveen Patnaik,21-05-2014,29-05-2019,1834,0,False,False,False,131.0,0.0,1.0,HINJILI,AEOD4163,BJD,4.0,False,True,True
+Odisha,16,1,5061.0,5.0,Shri Naveen Patnaik,29-05-2019,Current,763,0,False,False,False,2.0,0.0,1.0,BIJEPUR,AEOD4163,BJD,5.0,False,True,True
+Rajasthan,3,1,335.0,1.0,Mohan Lal Sukhadia,12-03-1962,13-03-1967,1827,NA,False,False,False,108.0,0.0,1.0,UDAIPUR,AERJ568,INC,1.0,False,False,False
+Rajasthan,-1,1,,,President's Rule,13-03-1967,26-04-1967,44,0,True,False,False,,,,,,,,,,
+Rajasthan,4,1,335.0,2.0,Mohan Lal Sukhadia,26-04-1967,09-07-1971,1535,0,False,False,False,130.0,0.0,1.0,UDAIPUR,AERJ568,INC,2.0,False,True,True
+Rajasthan,4,2,338.0,1.0,Barkatullah Khan,09-07-1971,15-03-1972,250,0,False,False,False,,,,,,,,,,
+Rajasthan,5,1,338.0,2.0,Barkatullah Khan,15-03-1972,11-10-1973,575,0,False,False,False,147.0,0.0,1.0,SOJAT,AERJ2502,INC,1.0,False,False,False
+Rajasthan,5,2,340.0,1.0,Hari Dev Joshi,11-10-1973,29-04-1977,1296,0,False,False,False,119.0,0.0,1.0,BANSWARA,AERJ2389,INC,2.0,False,False,False
+Rajasthan,-1,2,,,President's Rule,29-04-1977,22-06-1977,54,0,True,False,False,,,,,,,,,,
+Rajasthan,6,1,352.0,1.0,Bhairon Singh Shekhawat,22-06-1977,16-02-1980,969,0,False,False,False,,,,,,,,,,
+Rajasthan,-1,3,,,President's Rule,16-02-1980,06-06-1980,111,0,True,False,False,,,,,,,,,,
+Rajasthan,7,1,344.0,1.0,Jagannath Pahadia,06-06-1980,13-07-1981,402,0,False,False,False,75.0,1.0,1.0,WEIR(SC),AERJ3391,INC(I),1.0,False,False,False
+Rajasthan,7,2,345.0,1.0,Shiv Charan Mathur,14-07-1981,23-02-1985,1320,1,False,False,False,154.0,0.0,1.0,MANDALGARH,AERJ3580,INC(I),2.0,True,False,True
+Rajasthan,7,3,346.0,1.0,Heera Lal Devpura,23-02-1985,10-03-1985,15,0,False,False,False,149.0,0.0,1.0,KUMBHALGARH,AERJ34,INC(I),3.0,True,False,False
+Rajasthan,8,1,340.0,2.0,Hari Dev Joshi,10-03-1985,20-01-1988,1046,0,False,False,False,131.0,0.0,1.0,BANSWARA,AERJ2389,INC,5.0,True,True,True
+Rajasthan,8,2,345.0,2.0,Shiv Charan Mathur,20-01-1988,04-12-1989,684,0,False,False,False,154.0,0.0,1.0,MANDALGARH,AERJ3580,INC,3.0,True,True,True
+Rajasthan,8,3,340.0,3.0,Hari Dev Joshi,04-12-1989,04-03-1990,90,0,False,False,False,131.0,0.0,1.0,BANSWARA,AERJ2389,INC,5.0,True,True,True
+Rajasthan,9,1,352.0,2.0,Bhairon Singh Shekhawat,04-03-1990,15-12-1992,1017,0,False,False,False,114.0,0.0,1.0,CHHABRA,AERJ9885,BJP,3.0,False,True,True
+Rajasthan,-1,4,,,President's Rule,15-12-1992,04-12-1993,354,0,True,False,False,,,,,,,,,,
+Rajasthan,10,1,352.0,3.0,Bhairon Singh Shekhawat,04-12-1993,01-12-1998,1823,0,False,False,False,166.0,0.0,1.0,BALI,AERJ9885,BJP,4.0,False,True,True
+Rajasthan,11,1,353.0,1.0,Ashok Gehlot,01-12-1998,08-12-2003,1833,0,False,False,False,82.0,0.0,1.0,KHANDAR,AERJ12982,INC,1.0,False,False,False
+Rajasthan,12,1,354.0,1.0,Smt. Vasundhara Raje,08-12-2003,13-12-2008,1832,0,False,False,False,118.0,0.0,1.0,JHALRAPATAN,AERJ5913,BJP,2.0,False,False,False
+Rajasthan,13,1,353.0,2.0,Ashok Gehlot,13-12-2008,13-12-2013,1826,0,False,False,False,127.0,0.0,1.0,SARDARPURA,GERJ27768,INC,2.0,False,True,True
+Rajasthan,14,1,354.0,2.0,Smt. Vasundhara Raje,13-12-2013,17-12-2018,1830,0,False,False,False,198.0,0.0,1.0,JHALRAPATAN,AERJ5913,BJP,4.0,False,True,True
+Rajasthan,15,1,5071.0,1.0,Ashok Gehlot,17-12-2018,Current,926,0,False,False,False,127.0,0.0,1.0,SARDARPURA,GERJ27768,INC,4.0,False,True,True
+Sikkim,0,1,357.0,1.0,Kazi Lhendup Dorjee,16-05-1975,18-08-1979,1555,NA,False,False,True,,,,,,,,,,
+Sikkim,-1,1,,,President's Rule,18-08-1979,18-10-1979,61,0,True,False,False,,,,,,,,,,
+Sikkim,1,1,359.0,1.0,Nar Bahadur Bhandari,18-10-1979,11-05-1984,1667,0,False,False,False,8.0,0.0,1.0,SOREONG,AESK83554,SJP,1.0,False,False,False
+Sikkim,1,2,360.0,1.0,B. B. Gurung,11-05-1984,25-05-1984,14,0,False,False,False,7.0,0.0,1.0,CHAKUNG,AESK84064,SCR,1.0,False,False,False
+Sikkim,-1,2,,,President's Rule,25-05-1984,08-03-1985,287,0,True,False,False,,,,,,,,,,
+Sikkim,2,1,359.0,2.0,Nar Bahadur Bhandari,08-03-1985,30-11-1989,1728,0,False,False,False,8.0,0.0,1.0,SOREONG,AESK83554,SSP,2.0,True,True,True
+Sikkim,3,1,359.0,3.0,Nar Bahadur Bhandari,30-11-1989,17-06-1994,1660,0,False,False,False,8.0,0.0,1.0,SOREONG,AESK83554,SSP,3.0,False,True,True
+Sikkim,3,2,364.0,1.0,Sanchaman Limboo,17-06-1994,12-12-1994,178,0,False,False,True,,,,,,,,,,
+Sikkim,4,1,365.0,1.0,Pawan Kumar Chamling,12-12-1994,01-10-1999,1754,0,False,False,False,13.0,0.0,1.0,DAMTHANG,AESK83199,SDF,3.0,True,True,True
+Sikkim,5,1,365.0,2.0,Pawan Kumar Chamling,01-10-1999,21-05-2004,1694,0,False,False,False,13.0,0.0,1.0,DAMTHANG,AESK83199,SDF,4.0,False,True,True
+Sikkim,6,1,365.0,3.0,Pawan Kumar Chamling,21-05-2004,20-05-2009,1825,0,False,False,False,,,,,,,,,,
+Sikkim,7,1,365.0,4.0,Pawan Kumar Chamling,20-05-2009,21-05-2014,1827,0,False,False,False,10.0,0.0,1.0,POKLOK-KAMRANG,AESK83199,SDF,5.0,False,False,False
+Sikkim,8,1,365.0,5.0,Pawan Kumar Chamling,21-05-2014,27-05-2019,1832,0,False,False,False,11.0,0.0,1.0,NAMCHI-SINGHITHANG,AESK83199,SDF,6.0,False,True,True
+Sikkim,10,1,370.0,1.0,Prem Singh Tamang,27-05-2019,Current,765,0,False,False,False,28.0,0.0,1.0,,,,,,,
+Tamil_Nadu,0,1,371.0,1.0,Thiru K Kamaraj,03-03-1962,02-10-1963,578,NA,False,False,False,,,,,,,,,,
+Tamil_Nadu,0,2,372.0,1.0,Thiru M Bakthavatsalam,02-10-1963,06-03-1967,1251,0,False,False,False,,,,,,,,,,
+Tamil_Nadu,0,3,373.0,1.0,Dr. C.N. Annadurai,06-03-1967,03-02-1969,700,0,False,True,False,,,,,,,,,,
+Tamil_Nadu,0,4,374.0,1.0,Dr. Kalaignar M Karunanidhi,10-02-1969,04-01-1971,693,7,False,False,False,,,,,,,,,,
+Tamil_Nadu,1,1,374.0,2.0,Dr. Kalaignar M Karunanidhi,15-03-1971,31-01-1976,1783,70,False,False,False,12.0,0.0,1.0,SAIDAPET,AETN189483,DMK,1.0,False,False,False
+Tamil_Nadu,-1,1,,,President's Rule,31-01-1976,29-06-1977,515,0,True,False,False,,,,,,,,,,
+Tamil_Nadu,2,1,377.0,1.0,Dr. M G Ramachandran,30-06-1977,17-02-1980,962,1,False,False,False,204.0,0.0,1.0,ARUPPUKOTTAI,AETN211897,ADK,2.0,True,True,True
+Tamil_Nadu,-1,2,,,President's Rule,17-02-1980,08-06-1980,112,0,True,False,False,,,,,,,,,,
+Tamil_Nadu,3,1,377.0,2.0,Dr. M G Ramachandran,09-06-1980,15-11-1984,1620,1,False,False,False,142.0,0.0,1.0,MADURAI WEST,AETN211897,ADK,3.0,False,True,True
+Tamil_Nadu,4,1,377.0,3.0,Dr. M G Ramachandran,10-02-1985,24-12-1987,1047,87,False,False,False,135.0,0.0,1.0,ANDIPATTI,AETN211897,ADK,4.0,False,True,True
+Tamil_Nadu,4,2,381.0,1.0,Thirumathi Janaki Ramachandran,07-01-1988,30-01-1988,23,14,False,False,True,,,,,,,,,,
+Tamil_Nadu,-1,3,,,President's Rule,30-01-1988,26-01-1989,362,0,True,False,False,,,,,,,,,,
+Tamil_Nadu,5,1,374.0,3.0,Dr. Kalaignar M Karunanidhi,27-01-1989,30-01-1991,733,1,False,False,False,2.0,0.0,1.0,HARBOUR,AETN189483,DMK,4.0,False,False,False
+Tamil_Nadu,-1,4,,,President's Rule,30-01-1991,23-06-1991,144,0,True,False,False,,,,,,,,,,
+Tamil_Nadu,6,1,393.0,1.0,Dr. Selvi J Jayalalithaa,24-06-1991,12-05-1996,1784,1,False,False,False,78.0,0.0,1.0,BARGUR,AETN192262,ADK,2.0,True,True,True
+Tamil_Nadu,7,1,374.0,4.0,Dr. Kalaignar M Karunanidhi,13-05-1996,13-05-2001,1826,1,False,False,False,11.0,0.0,1.0,CHEPAUK,AETN189483,DMK,6.0,False,False,True
+Tamil_Nadu,8,1,393.0,2.0,Dr. Selvi J Jayalalithaa,14-05-2001,21-09-2001,130,1,False,False,False,135.0,1.0,1.0,ANDIPATTI,AETN192262,ADMK,3.0,False,False,True
+Tamil_Nadu,8,2,392.0,1.0,Thiru O. Panneerselvam,21-09-2001,01-03-2002,161,0,False,False,False,131.0,0.0,1.0,PERIYAKULAM,AETN189985,ADMK,1.0,False,False,False
+Tamil_Nadu,8,3,393.0,3.0,Dr. Selvi J Jayalalithaa,02-03-2002,12-05-2006,1532,1,False,False,False,135.0,1.0,1.0,ANDIPATTI,AETN192262,ADMK,3.0,False,False,True
+Tamil_Nadu,9,1,374.0,5.0,Dr. Kalaignar M. Karunanidhi,13-05-2006,15-05-2011,1828,1,False,False,False,11.0,0.0,1.0,CHEPAUK,AETN189483,DMK,8.0,False,True,True
+Tamil_Nadu,10,1,393.0,4.0,Dr. Selvi J Jayalalithaa,16-05-2011,27-09-2014,1230,1,False,False,False,139.0,0.0,1.0,SRIRANGAM,AETN192262,ADMK,5.0,False,True,True
+Tamil_Nadu,10,2,392.0,2.0,Thiru O. Panneerselvam,29-09-2014,22-05-2015,235,2,False,False,False,200.0,0.0,1.0,BODINAYAKANUR,AETN189985,ADMK,3.0,False,True,True
+Tamil_Nadu,10,3,393.0,5.0,Dr. Selvi J Jayalalithaa,23-05-2015,19-05-2016,362,1,False,False,False,11.0,1.0,1.0,DR. RADHAKRISHNAN NAGAR,AETN192262,ADMK,5.0,False,True,True
+Tamil_Nadu,11,1,393.0,6.0,Dr. Selvi J Jayalalithaa,20-05-2016,05-12-2016,199,1,False,False,False,11.0,0.0,1.0,DR. RADHAKRISHNAN NAGAR,AETN192262,ADMK,6.0,False,True,True
+Tamil_Nadu,11,2,392.0,3.0,Thiru O. Panneerselvam,06-12-2016,15-02-2017,71,1,False,False,False,200.0,0.0,1.0,BODINAYAKANUR,AETN189985,ADMK,4.0,False,True,True
+Tamil_Nadu,11,3,5081.0,1.0,E. Palaniswami,16-02-2017,03-05-2021,1537,1,False,False,False,86.0,0.0,1.0,EDAPADI,AETN194646,ADMK,4.0,False,True,True
+Tamil_Nadu,12,1,5082.0,1.0,Thiru M.K. Stalin,07-05-2021,Current,54,4,False,False,False,13.0,0.0,1.0,KOLATHUR,AETN202458,DMK,7.0,False,True,True
+Tripura,1,1,396.0,1.0,Sachindra Lal Singh,01-07-1963,28-02-1967,1338,NA,False,False,False,,,,,,,,,,
+Tripura,2,1,396.0,2.0,Sachindra Lal Singh,01-03-1967,01-11-1971,1706,1,False,False,False,3.0,0.0,1.0,BAMUTIA,AETR5195902,INC,1.0,False,False,False
+Tripura,-1,1,,,President's Rule,01-11-1971,20-03-1972,140,0,True,False,False,,,,,,,,,,
+Tripura,3,1,399.0,1.0,Sukhamoy Sen Gupta,20-03-1972,31-03-1977,1837,0,False,False,False,7.0,0.0,1.0,RAMNAGAR,AETR352,CPM,1.0,False,False,False
+Tripura,3,2,400.0,1.0,Prafulla Kumar Das,01-04-1977,25-07-1977,115,1,False,False,False,3.0,0.0,2.0,BAMUTIA,AETR5195902,TCD,1.0,True,True,True
+Tripura,3,3,401.0,1.0,Radhika Ranjan Gupta,26-07-1977,04-11-1977,101,1,False,False,False,51.0,0.0,3.0,FATIKROY,AETR2595,JNP,2.0,True,True,True
+Tripura,-1,2,,,President's Rule,05-11-1977,05-01-1978,61,1,True,False,False,,,,,,,,,,
+Tripura,4,1,403.0,1.0,Nripen Chakraborty,05-01-1978,09-01-1983,1830,0,False,False,False,26.0,0.0,1.0,ASHARAMBARI,AETR5195500,CPM,3.0,False,True,True
+Tripura,5,1,403.0,2.0,Nripen Chakraborty,10-01-1983,05-02-1988,1852,1,False,False,False,26.0,0.0,1.0,ASHARAMBARI,AETR5195500,CPM,4.0,False,True,True
+Tripura,6,1,405.0,1.0,Sudhir Ranjan Majumdar,05-02-1988,19-02-1992,1475,0,False,False,False,8.0,0.0,1.0,TOWN BORDOWALI,AETR676,FBL,2.0,False,False,True
+Tripura,6,2,406.0,1.0,Samir Ranjan Barman,19-02-1992,10-03-1993,385,0,False,False,False,16.0,0.0,1.0,BISHALGARH,AETR157,INC,3.0,False,True,True
+Tripura,-1,3,,,President's Rule,11-03-1993,10-04-1993,30,1,True,False,False,,,,,,,,,,
+Tripura,7,1,408.0,1.0,Dasarath Deb,10-04-1993,11-03-1998,1796,0,False,False,False,23.0,0.0,1.0,DHANPUR,AETR5195326,CPM,1.0,False,False,False
+Tripura,8,1,411.0,1.0,Manik Sarkar,11-03-1998,03-03-2003,1818,0,False,False,False,22.0,0.0,1.0,SONAMURA,AETR1069,CPM,4.0,False,True,True
+Tripura,9,1,411.0,2.0,Manik Sarkar,04-03-2003,09-03-2008,1832,1,False,False,False,22.0,0.0,1.0,SONAMURA,AETR1069,CPM,5.0,False,True,True
+Tripura,10,1,411.0,3.0,Manik Sarkar,10-03-2008,01-03-2013,1817,1,False,False,False,22.0,0.0,1.0,SONAMURA,AETR444,CPM,1.0,False,False,False
+Tripura,11,1,411.0,4.0,Manik Sarkar,02-03-2013,09-03-2018,1833,1,False,False,False,23.0,0.0,1.0,DHANPUR,AETR39559,CPM,1.0,False,False,False
+Tripura,12,1,413.0,1.0,Biplab Kumar Deb,09-03-2018,Current,1209,0,False,False,False,9.0,0.0,1.0,,,,,,,
+Uttar_Pradesh,2,1,414.0,1.0,Sri Chandrabhanu Gupta,07-12-1960,14-03-1962,462,NA,False,False,False,,,,,,,,,,
+Uttar_Pradesh,3,1,414.0,2.0,Sri Chandrabhanu Gupta,14-03-1962,01-10-1963,566,0,False,False,False,14.0,0.0,1.0,RANIKHET SOUTH,AEUP170913,INC,1.0,False,False,False
+Uttar_Pradesh,3,2,416.0,1.0,Ms Sucheta Kriplani,02-10-1963,13-03-1967,1258,1,False,False,False,185.0,0.0,1.0,MENDHWAL,AEUP1062,INC,1.0,False,False,False
+Uttar_Pradesh,4,1,414.0,3.0,Sri Chandrabhanu Gupta,14-03-1967,02-04-1967,19,1,False,False,False,14.0,0.0,1.0,RANIKHET,AEUP173843,INC,1.0,False,False,False
+Uttar_Pradesh,4,2,418.0,1.0,Sri Charan Singh,03-04-1967,25-02-1968,328,1,False,False,False,405.0,0.0,1.0,CHAPRAULI,AEUP176671,INC,1.0,False,False,False
+Uttar_Pradesh,-1,1,,,President's Rule,25-02-1968,26-02-1969,367,0,True,False,False,,,,,,,,,,
+Uttar_Pradesh,5,1,414.0,4.0,Sri Chandrabhanu Gupta,26-02-1969,17-02-1970,356,0,False,False,False,14.0,0.0,1.0,RANIKHET,AEUP5712,INC,1.0,False,False,False
+Uttar_Pradesh,5,2,418.0,2.0,Sri Charan Singh,17-02-1970,01-10-1970,226,0,False,False,False,405.0,0.0,1.0,CHAPRAULI,AEUP166820,BKD,2.0,True,False,False
+Uttar_Pradesh,-1,2,,,President's Rule,01-10-1970,18-10-1970,17,0,True,False,False,,,,,,,,,,
+Uttar_Pradesh,5,4,423.0,1.0,Sri T N Singh,18-10-1970,03-04-1971,167,0,False,False,False,,,,,,,,,,
+Uttar_Pradesh,5,5,424.0,1.0,Pt. KamlapatiTripathi,04-04-1971,12-06-1973,800,1,False,False,False,243.0,0.0,1.0,CHANDAULI,AEUP172395,INC,1.0,False,False,False
+Uttar_Pradesh,-1,3,,,President's Rule,13-06-1973,08-11-1973,148,1,True,False,False,,,,,,,,,,
+Uttar_Pradesh,5,6,426.0,1.0,Sri Hemvati Nandan Bahuguna,08-11-1973,04-03-1974,116,0,False,False,False,,,,,,,,,,
+Uttar_Pradesh,6,1,426.0,2.0,Sri Hemvati Nandan Bahuguna,15-03-1974,29-11-1975,624,11,False,False,False,269.0,0.0,1.0,BARA,AEUP169224,INC,3.0,False,False,True
+Uttar_Pradesh,-1,4,,,President's Rule,30-11-1975,21-01-1976,52,1,True,False,False,,,,,,,,,,
+Uttar_Pradesh,6,2,429.0,1.0,Sri N.D. Tiwari,21-01-1976,30-04-1977,465,0,False,False,False,16.0,0.0,1.0,KASHIPUR,AEUP26324,INC,1.0,False,False,False
+Uttar_Pradesh,-1,5,,,President's Rule,30-04-1977,23-06-1977,54,0,True,False,False,,,,,,,,,,
+Uttar_Pradesh,7,1,431.0,1.0,Sri Ram Naresh yadav,23-06-1977,27-02-1979,614,0,False,False,False,,,,,,,,,,
+Uttar_Pradesh,7,2,432.0,1.0,Sri Banarasi Das,28-02-1979,17-02-1980,354,1,False,False,False,391.0,0.0,1.0,HAPUR,AEUP31814,JNP,1.0,False,False,False
+Uttar_Pradesh,-1,6,,,President's Rule,17-02-1980,09-06-1980,113,0,True,False,False,,,,,,,,,,
+Uttar_Pradesh,8,1,434.0,1.0,Sri V.P. Singh,09-06-1980,18-07-1982,769,0,False,False,False,318.0,1.0,1.0,TINDWARI,AEUP100433,INC(I),1.0,False,False,False
+Uttar_Pradesh,8,2,435.0,1.0,Sri Sripati Misra,19-07-1982,03-08-1984,746,1,False,False,False,124.0,0.0,1.0,ISSAULI,AEUP160336,INC(I),2.0,True,False,False
+Uttar_Pradesh,8,3,429.0,2.0,Sri N.D. Tiwari,03-08-1984,10-03-1985,219,0,False,False,False,,,,,,,,,,
+Uttar_Pradesh,9,1,429.0,3.0,Sri N.D. Tiwari,11-03-1985,24-09-1985,197,1,False,False,False,16.0,0.0,1.0,KASHIPUR,AEUP5735,INC,1.0,True,False,False
+Uttar_Pradesh,9,2,438.0,1.0,Sri Vir Bahadur Singh,24-09-1985,24-06-1988,1004,0,False,False,False,188.0,0.0,1.0,PANIARA,AEUP6820,INC,3.0,False,False,False
+Uttar_Pradesh,9,3,429.0,4.0,Sri N.D. Tiwari,25-06-1988,05-12-1989,528,1,False,False,False,16.0,0.0,1.0,KASHIPUR,AEUP5735,INC,1.0,True,False,False
+Uttar_Pradesh,10,1,440.0,1.0,Sri Mulayam Singh Yadav,05-12-1989,24-06-1991,566,0,False,False,False,305.0,0.0,1.0,JASWANTNAGAR,AEUP30604,JD,1.0,False,False,False
+Uttar_Pradesh,11,1,441.0,1.0,Sri Kalyan Singh,24-06-1991,06-12-1992,531,0,False,False,False,372.0,0.0,1.0,ATRAULI,AEUP145891,BJP,1.0,False,False,False
+Uttar_Pradesh,-1,7,,,President's Rule,06-12-1992,04-12-1993,363,0,True,False,False,,,,,,,,,,
+Uttar_Pradesh,12,1,440.0,2.0,Sri Mulayam Singh Yadav,04-12-1993,03-06-1995,546,0,False,False,False,339.0,0.0,1.0,SHIKOHABAD,AEUP47646,SP,1.0,False,False,False
+Uttar_Pradesh,12,2,444.0,1.0,Ms. Mayawati,03-06-1995,17-10-1995,136,0,False,False,False,,,,,,,,,,
+Uttar_Pradesh,-1,8,,,President's Rule,18-10-1995,21-03-1997,520,1,True,False,False,,,,,,,,,,
+Uttar_Pradesh,13,1,444.0,2.0,Ms. Mayawati,21-03-1997,21-09-1997,184,0,False,False,False,417.0,0.0,1.0,HARORA,AEUP60512,BSP,1.0,False,False,False
+Uttar_Pradesh,13,2,441.0,2.0,Sri Kalyan Singh,21-09-1997,11-11-1999,781,0,False,False,False,372.0,0.0,1.0,ATRAULI,AEUP123873,BJP,1.0,False,False,False
+Uttar_Pradesh,13,3,448.0,1.0,Sri. Ram Prakash Gupta,12-11-1999,28-10-2000,351,1,False,True,False,,,,,,,,,,
+Uttar_Pradesh,13,4,449.0,1.0,Sri Rajnath Singh,28-10-2000,07-03-2002,495,0,False,False,False,141.0,1.0,1.0,HAIDARGARH,AEUP156645,BJP,2.0,False,False,True
+Uttar_Pradesh,-1,9,,,President's Rule,08-03-2002,03-05-2002,56,1,True,False,False,,,,,,,,,,
+Uttar_Pradesh,14,1,444.0,3.0,Ms. Mayawati,03-05-2002,28-08-2003,482,0,False,False,False,401.0,0.0,1.0,HARORA,AEUP113051,BSP,2.0,False,False,True
+Uttar_Pradesh,14,2,440.0,3.0,Sri Mulayam Singh Yadav,29-08-2003,12-05-2007,1352,1,False,False,False,25.0,1.0,1.0,Gunnur,GEUP13257,SP,3.0,False,False,False
+Uttar_Pradesh,15,1,444.0,4.0,Ms. Mayawati,13-05-2007,14-03-2012,1767,1,False,True,False,,,,,,,,,,
+Uttar_Pradesh,16,1,454.0,1.0,Sri Akhilesh Yadav,15-03-2012,19-03-2017,1830,1,False,True,False,,,,,,,,,,
+Uttar_Pradesh,17,1,5091.0,1.0,Yogi Adityanath,19-03-2017,Current,1564,0,False,True,False,,,,,,,,,,
+Uttarakhand,0,1,455.0,1.0,Shri Nityanand Swami,09-11-2000,29-10-2001,354,NA,False,False,True,,,,,,,,,,
+Uttarakhand,0,2,456.0,1.0,Shri Bhagat Singh koshiyari,30-10-2001,01-03-2002,122,1,False,False,True,,,,,,,,,,
+Uttarakhand,1,1,457.0,1.0,Shri Narayan Dutt Tiwari,02-03-2002,07-03-2007,1831,1,False,False,False,56.0,1.0,1.0,RAMNAGAR,AEUP153033,INC,,False,False,False
+Uttarakhand,2,1,458.0,1.0,Maj.General.B.C.Khanduri,07-03-2007,26-06-2009,842,0,False,False,False,30.0,1.0,1.0,Dhumakote,AEUK100833,BJP,,False,False,False
+Uttarakhand,2,2,459.0,1.0,Dr.Ramesh Pokhriyal Nishank,27-06-2009,10-09-2011,805,1,False,False,False,35.0,0.0,1.0,THALISAIN,AEUP74612,BJP,,False,False,True
+Uttarakhand,2,3,458.0,2.0,Maj.General.B.C.Khanduri,11-09-2011,13-03-2012,184,1,False,False,False,30.0,1.0,1.0,Dhumakote,AEUK100833,BJP,,False,False,False
+Uttarakhand,3,1,461.0,1.0,Shri Vijaya Bahuguna,13-03-2012,31-01-2014,689,0,False,False,False,68.0,1.0,1.0,SITARGANJ,AEUK100814,INC,,False,False,False
+Uttarakhand,3,2,466.0,1.0,Shri Harish Rawat,01-02-2014,27-03-2016,785,1,False,False,False,42.0,1.0,1.0,DHARCHULA,AEUK100498,INC,,False,False,False
+Uttarakhand,-1,1,,,President's Rule,27-03-2016,21-04-2016,25,0,True,False,False,,,,,,,,,,
+Uttarakhand,3,3,466.0,2.0,Shri Harish Rawat,21-04-2016,22-04-2016,1,0,False,False,False,42.0,1.0,1.0,DHARCHULA,AEUK100498,INC,,False,False,False
+Uttarakhand,-1,2,,,President's Rule,22-04-2016,11-05-2016,19,0,True,False,False,,,,,,,,,,
+Uttarakhand,3,4,466.0,3.0,Shri Harish Rawat,11-05-2016,18-03-2017,311,0,False,False,False,42.0,1.0,1.0,DHARCHULA,AEUK100498,INC,,False,False,False
+Uttarakhand,4,1,5098.0,1.0,Shri Trivendra Singh Rawat,18-03-2017,09-03-2021,1452,0,False,False,False,23.0,0.0,1.0,DOIWALA,AEUK100377,BJP,3.0,False,False,True
+Uttarakhand,4,2,5099.0,1.0,Shri Tirath Singh Rawat,10-03-2021,Current,112,1,False,False,False,,,,,,,,,,
