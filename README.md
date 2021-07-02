@@ -1,7 +1,7 @@
 ### Data Citation: 
-“TCPD Chief Ministers of India Dataset (TCPD-CMsoI), 1962-current”. Trivedi Centre for Political Data, Ashoka University.
+“TCPD Chief Ministers of India Dataset (TCPD-CMID), 1962-current”. Trivedi Centre for Political Data, Ashoka University.
 ### Codebook Citation: 
-Ananay Agarwal, Neelesh Agrawal, Prachi Arya,  Mohit Kumar, Omkar Mishra, and Basim U Nissa. 2021. “TCPD Chief Ministers of India Dataset (TCPD-CMsoI), 1962-current Codebook", Trivedi Centre for Political Data, Ashoka University.
+Ananay Agarwal, Neelesh Agrawal, Prachi Arya,  Mohit Kumar, Omkar Mishra, and Basim U Nissa. 2021. “TCPD Chief Ministers of India Dataset (TCPD-CMID), 1962-current Codebook", Trivedi Centre for Political Data, Ashoka University.
 ### No Endorsement: 
 The user must not claim or imply that the Trivedi Centre for Political Data endorses the user's use of the data or use of the Centre's logo(s) or trademarks(s) in conjunction with the same.
 ### No Warranty: 
